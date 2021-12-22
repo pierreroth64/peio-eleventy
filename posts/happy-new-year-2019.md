@@ -29,7 +29,7 @@ Nous sommes une toute petite équipe de dev @eove et les besoins sont multiples 
 - pour le dev de scripts en CLI: [Node.js](http://www.nodejs.org)
 - pour le dev d'interface web et backend associé [React](https://reactjs.org/) et [Node.js](http://www.nodejs.org)
 
-Le seul développement qui reste en Language C est le firmware du module de ventilation qui tourne sur une petite architecture ARM.
+Le seul développement qui reste en Language C est le firmware du module de ventilation qui tourne sur une petite architecture 16 bits de STMicroElectronics.
 
 **Mon nouvel écosystème de prédilection est donc maintenant le Javascript** et je me régale :stuck_out_tongue_winking_eye: La productivité est énorme et la qualité peut être là si on suit le bon chemin: [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), [XP](https://en.wikipedia.org/wiki/Extreme_programming), [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (oui je sais je rabâche mais c'est l'âge)
 
