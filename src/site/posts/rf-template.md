@@ -6,7 +6,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Tester ?
+## Tester ?
 
 "Ah le test... on devrait tous... ah si j'avais le temps..." non mais _vous rigolez là_ j'espère!
 
@@ -14,7 +14,7 @@ Le test c'est OBLIGATOIRE en 2016 et je vous signale juste que l'intégration co
 
 Mais c'est surtout pas évident à mettre en oeuvre et à maintenir. J'ai publié sur github un petit template/skeleton permettant de démarrer rapidement avec l'outil [robotframework](http://www.robotframework.org). Désolé pour les djeun's, j'ai pas pu m'empêcher d'encapsuler les commandes de base dans un bon vieux makefile... oui je sais... mais j'aime bien.
 
-# Le code
+## Le code
 
 Il est ici: [https://github.com/pierreroth64/robotframework-template](https://github.com/pierreroth64/robotframework-template)
 

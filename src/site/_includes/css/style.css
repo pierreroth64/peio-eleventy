@@ -20,7 +20,7 @@
   }
 
   h1 {
-    @apply text-xl py-2 font-semibold;
+    @apply text-2xl py-2 font-semibold;
   }
 
   h2 {
@@ -32,7 +32,7 @@
   }
 
   .nav-item {
-    @apply text-2xl mr-4;
+    @apply text-2xl mr-4 list-none;
   }
 
   .nav-item-active {
@@ -41,5 +41,13 @@
 
   p {
     @apply py-2;
+  }
+
+  .post-img {
+    @apply rounded-lg my-1;
+  }
+
+  ul {
+    @apply list-disc ml-10;
   }
 }

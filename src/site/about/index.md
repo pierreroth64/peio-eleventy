@@ -1,19 +1,18 @@
 ---
 layout: layouts/page.njk
-title: A propos
 templateClass: tmpl-post
 eleventyNavigation:
   key: A propos
   order: 3
 ---
 
-### Hi there 👋
+Salut, je m'appelle Peio.
 
-I'm Peio and I...
- - ❤️ love e**X**treme **P**rogramming practices (click [here](https://agilequittersmanifesto.org/) if you are `SAFe` certified)
- - 🔨 am currently working on medical devices [@eove](http://eove.fr) (do **not** contact me for job offers)
- - 🌱 am building a micro-farm in front of the Pyrenees 🏔️
- - 🏴 am an anarchist (obviously)
+Je suis développeur, anarchiste et apprenti paysan 🌱
 
-📫 You can reach me on twitter: [@peioroth64](https://twitter.com/peioroth64)
+ - ❤️ je suis fan des pratiques d'e**X**treme **P**rogramming (cliquer [ici](https://agilequittersmanifesto.org/) si vous êtes certifié `SAFe`)
+ - 🔨 je conçois des appareils médicaux chez [@eove](http://eove.fr) (ne **PAS** me contacter pour une offre d'emploi)
+ - 🌱 je suis en cours d'installation d'une micro-ferme face aux Pyrénées 🏔️
+ - 🏴 je suis anarchiste (bien évidemment)
+
 

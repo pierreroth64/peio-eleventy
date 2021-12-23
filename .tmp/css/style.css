@@ -419,8 +419,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   h1 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
   font-weight: 600;
 }
 
@@ -438,6 +438,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .nav-item {
   margin-right: 1rem;
+  list-style-type: none;
   font-size: 1.5rem;
   line-height: 2rem;
 }
@@ -453,6 +454,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+
+  .post-img {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+  ul {
+  margin-left: 2.5rem;
+  list-style-type: disc;
+}
 *, ::before, ::after {
   --tw-blur: var(--tw-empty,/*!*/ /*!*/);
   --tw-brightness: var(--tw-empty,/*!*/ /*!*/);
@@ -465,26 +477,42 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/);
   --tw-filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+.mr-4 {
+  margin-right: 1rem;
+}
 .flex {
   display: flex;
 }
 .table {
   display: table;
 }
-.max-w-sm {
-  max-width: 24rem;
+.h-14 {
+  height: 3.5rem;
 }
-.max-w-lg {
-  max-width: 32rem;
-}
-.max-w-xl {
-  max-width: 36rem;
+.w-14 {
+  width: 3.5rem;
 }
 .max-w-3xl {
   max-width: 48rem;
 }
-.self-center {
-  align-self: center;
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.rounded-full {
+  border-radius: 9999px;
 }
 .filter {
   filter: var(--tw-filter);
