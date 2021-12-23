@@ -7,7 +7,7 @@ layout: layouts/post.njk
 ---
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/effondrement-gatso.jpeg">
+  <img class="max-w-xl post-img" src="/static/img/effondrement-gatso.jpeg">
 </div>
 
 ## Petite histoire pour commencer…
@@ -31,7 +31,7 @@ Pour tous les papas et les mamans qui “sentent” que quelque chose d’une am
 ## Prise de conscience
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/effondrement-sable.jpeg">
+  <img class="max-w-xl post-img" src="/static/img/effondrement-sable.jpeg">
 </div>
 
 Été 2018, sur la plage de Gatseau au sud de l’île d’Oléron. Les enfants jouent tranquillement aux tracteurs dans le sable à l’ombre. Rachel lit paisiblement à côté. Étendu sur le tapis d’aiguilles de pin, je me laisse bercer par la douce brise en contemplant les branches des pins et chênes lièges. Mais ma tête mouline et je sens bien que “tout ça” ne durera pas. Que cette plage disparaîtra, de façon certaine. Tout ça n’est pas nouveau. Sauf que, ce que je viens de comprendre, c’est que **tout ça disparaîtra de mon vivant**. Je vivrai ça avec mes enfants. Les amours de ma vie vont voir ça, vont subir ça, violemment. “Mais non t’es con”, “Arrête de gamberger, tu es la pour profiter”: ma tête ne veut pas de cette évidence. Pas encore.
@@ -57,7 +57,7 @@ Cet été 2019, un ami m’a conseillé la lecture du livre “Fact fulness” d
 ```
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/effondrement-world-population.jpeg">
+  <img class="max-w-xl post-img" src="/static/img/effondrement-world-population.jpeg">
 </div>
 
 Alors là, je vous avoue que je commence à ne plus adhérer au propos. **11 milliards de personnes équipées de smartphones et de motos ?!?!**… La planète est-elle capable de fournir autant ? Nous avons tous entendu parler du jour du dépassement et nous ne sommes “que” 7 milliards dont probablement une moitié seulement possède un smartphone de “Niveau 4”… à 11 milliards plein pot en bagnole, avion, smartphone, clim… euh… est-ce bien sérieux ? Attention, je ne dis pas que ceux qui vivent aux niveaux 1, 2 et 3 n’ont pas le droit de viser le 4 ! Je serais mal placé. Je constate juste les limites de la bio-capacité de la Terre.
@@ -116,7 +116,7 @@ Allez, assez discuté: à la “Fact fulness”, je vous propose une liste ordon
 Si vous avez fait ce mini-parcours, vous devriez en être là côté moral:
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/effondrement-moral.jpeg">
+  <img class="max-w-xl post-img" src="/static/img/effondrement-moral.jpeg">
 </div>
 
 Vous étiez dans le déni ? Ben là, normalement, c’est fini. Vous avez les infos et vous avez peur. Comme moi, **vous prenez conscience et vous êtes triste**.
@@ -193,7 +193,7 @@ Pourquoi ? Parce que j’ai gagné “l’espérance” d’un monde nouveau, re
 ## …Maintenant !
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/effondrement-co2.png">
+  <img class="max-w-xl post-img" src="/static/img/effondrement-co2.png">
 </div>
 
 Pour finir, ça devrait vous plaire :
