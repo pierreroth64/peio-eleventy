@@ -17,5 +17,14 @@
     "name": "Peio",
     "email": "peioroth@gmail.com",
     "url": "https://peio.dev/about-me/"
+  },
+  "github": {
+    "url": "https://github.com/pierreroth64"
+  },
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/pierreroth/"
+  },
+  "twitter": {
+    "url": "https://www.twitter.com/peioroth64/"
   }
 }

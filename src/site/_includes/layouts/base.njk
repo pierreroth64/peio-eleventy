@@ -31,6 +31,16 @@
       </main>
     </div>
 
-    <footer class="h-10 mt-10">mon footer...</footer>
+    <footer class="h-10 mt-10 flex justify-center">
+      <div class="mx-2">
+        <a href="{{ metadata.github.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/github.svg" alt=""></a>
+      </div>
+      <div class="mx-2">
+        <a href="{{ metadata.linkedin.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/linkedin.svg" alt=""></a>
+      </div>
+      <div class="mx-2">
+        <a href="{{ metadata.twitter.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/twitter.svg" alt=""></a>
+      </div>
+    </footer>
   </body>
 </html>
