@@ -55,4 +55,12 @@
   ul {
     @apply list-disc ml-10;
   }
+
+  .footer {
+    @apply h-10 mt-10 mb-10 flex justify-center;
+  }
+
+  .footer-item {
+    @apply mx-2;
+  }
 }
