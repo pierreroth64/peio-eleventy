@@ -210,11 +210,12 @@ Marche pour le climat: Titouan (bientôt 3 ans) et Arthur (bientôt 6 ans) y ét
 
 Et pour ma maman et mon papa. Que v’aimi:
 
-```
+<p class="quote">
 Le cosmopolite qui n’a qu’une langue, l’anglais, une connaissance, le calcul, un but, le gain, un idéal, la croissance, un mythe le progrès matériel, s’oppose au citoyen de la Terre-Patrie, qui reconnait l’unité/diversité humaine et la communauté de destin de tous les humains — Edgar Morin, 21 mars 2019
-```
+</p>
 
 Quelques références supplémentaires :
+
 
     certaines personnes savent mieux écrire que d’autres. J’aime beaucoup ce post
     discours de Greta Thunberg à l’ONU en septembre 2019, juste énorme: ici
