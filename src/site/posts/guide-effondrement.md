@@ -42,19 +42,21 @@ De votre côté, vous vous doutez comme moi de quelque chose. C’est certain. L
 
 Cet été 2019, un ami m’a conseillé la lecture du livre “Fact fulness” de Hans Rosling (& Co). Le sujet ? Regarder le monde via les faits, les données réelles et apprendre à mettre de côté les biais cognitifs culturels périmés. Intéressant, très intéressant. Sauf que… le “monde” présenté dans ce livre, c’est le monde des humains, c’est à dire l’humanité. Oui, “tout ne va pas bien, mais tout va clairement mieux” … pour les humains. Et ma sensation est un peu mitigée, surtout à la lecture de paragraphes tels que:
 
-    Si on combine les pays à hauts et moyens revenus, on arrive à 91% de l’humanité, dont on peut dire qu’ils sont intégrés dans le marché mondial et ont fait de grands progrès vers des niveaux de vie décents. C’est un événement heureux pour les humanitaires, et un événement crucial pour l’économie mondiale. Il y a là 5 milliards de consommateurs potentiels, désireux d’utiliser du shampoing, des motos, des serviettes hygiéniques et des smartphones. Si vous continuez à penser qu’ils sont pauvres, vous risquez de passer à côté de clients potentiels.
+<p class="quote">
+  Si on combine les pays à hauts et moyens revenus, on arrive à 91% de l’humanité, dont on peut dire qu’ils sont intégrés dans le marché mondial et ont fait de grands progrès vers des niveaux de vie décents. C’est un événement heureux pour les humanitaires, et un événement crucial pour l’économie mondiale. Il y a là 5 milliards de consommateurs potentiels, désireux d’utiliser du shampoing, des motos, des serviettes hygiéniques et des smartphones. Si vous continuez à penser qu’ils sont pauvres, vous risquez de passer à côté de clients potentiels.
+</p>
 
 … Oui l’économie, toujours. Certes c’est important, crucial même au vu de la démonstration que j’approuve. Alors oui, d’accord avec ça aussi:
 
-```
+<p class="quote">
   (…) il y a seulement 20 ans, 29% de la population vivait dans l’extrême pauvreté. Aujourd’hui, ce chiffre est de 9%. Aujourd’hui, presque tout le monde a échappé à l’enfer. La source originelle de toute souffrance humaine est en passe d’être éradiquée. On devrait faire la fête ! Une grande fête ! Et quand je dis “on, je veux dire l’humanité !”
-```
+</p>
 
 … bon ben tout roule alors ! … sauf que…
 
-```
+<p class="quote">
   Au lieu de chercher des gens à incriminer, ce qu’il nous faut, pour sauver la planète des énormes risques engendrés par le changement climatique, c’est un plan réaliste. Nous devons engager nos efforts dans l’invention de technologies nouvelles, qui permettront à 11 milliards de personnes de vivre la vie que tous veulent vivre. La vie que nous vivons maintenant au niveau 4, mais avec des solutions plus intelligentes.
-```
+</p>
 
 <div class="flex justify-center">
   <img class="max-w-xl post-img" src="/static/img/effondrement-world-population.jpeg">
@@ -91,7 +93,9 @@ Dur à entendre.
 
 Dur à croire.
 
-    Mais non Peio ! L’humanité s’en est toujours sortie ! On fera des progrès grâce à la science, on a la green-tech avec nous ! La conscience collective va tout faire basculer ! On va inventer, innover !
+<p class="quote">
+Mais non Peio ! L’humanité s’en est toujours sortie ! On fera des progrès grâce à la science, on a la green-tech avec nous ! La conscience collective va tout faire basculer ! On va inventer, innover !
+</p>
 
 Oui, certes.
 
