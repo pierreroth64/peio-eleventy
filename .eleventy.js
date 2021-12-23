@@ -70,25 +70,20 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "./.tmp/css/style.css": "static/css/style.css" });
   eleventyConfig.addPassthroughCopy({ "./src/site/_includes/fonts": "static/fonts" });
   eleventyConfig.addPassthroughCopy({ "./src/site/_includes/img": "static/img" });
-  eleventyConfig.addPassthroughCopy({ "./src/site/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "./src/site/robots.txt": "robots.txt" });
 
-  // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "direct-link",
-      symbol: "#",
-      level: [1,2,3,4],
-    }),
-    slugify: eleventyConfig.getFilter("slug")
+    permalink: true,
+    permalinkClass: "direct-link",
+    permalinkSymbol: "#",
+    level: 2,
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
-
+  
   return {
     dir: {
       input: "src/site",
