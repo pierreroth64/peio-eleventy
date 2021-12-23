@@ -12,6 +12,7 @@
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
+  <div class="flex flex-col h-screen justify-between">
     <header class="flex justify-between mb-10">
         <div class="flex items-center">
           <a href="{{ '/' | url }}"><img class="w-14 h-14 rounded-full mr-4" src="/static/img/peio.jpg" alt=""></a>
@@ -24,12 +25,12 @@
         </ul>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      {{ content | safe }}
-    </main>
+    <div class="mb-auto">
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+      </main>
+    </div>
 
-    <footer>mon footer...</footer>
-
-    <!-- Current page: {{ page.url | url }} -->
+    <footer class="h-10">mon footer...</footer>
   </body>
 </html>

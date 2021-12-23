@@ -8,7 +8,7 @@
   body {
     @apply antialiased text-slate-300 bg-slate-800 ;
     @apply max-w-4xl mx-auto;
-    @apply font-sans text-base;
+    @apply font-sans text-lg;
   }
   .post-tag {
     @apply p-1 rounded-lg bg-slate-400 mx-1;
@@ -25,6 +25,10 @@
 
   h2 {
     @apply text-xl py-1 font-semibold;
+  }
+
+  h3 {
+    @apply text-lg py-1 font-semibold;
   }
 
   .nav {
