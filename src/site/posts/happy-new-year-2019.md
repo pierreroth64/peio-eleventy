@@ -8,7 +8,10 @@ layout: layouts/post.njk
 
 ## Bona annada / Happy new year / Bonne année !
 
-![bona annada](/img/bona-annada.jpg)
+<div class="max-w-3xl">
+  <img src="/static/img/bona-annada.jpg">
+</div>
+
 
 Pfiou !!! ça fait un bon bout de temps que je n'ai rien écrit ici: depuis fin 2016, la vie a été mouvementée ;) avec la naissance de mon second fiston (2 garçons à la maison, ça booste! :rocket: ), un changement de boîte ([Legrand](http://www.legrand.fr) => [Eove](http://www.eove.fr)) et donc de nouveaux challenges humains et techniques. Je ne vais pas trop rentrer dans les détails mais voici les grandes lignes pour rattraper mon retard sur presque 2 années silencieuses sur ce blog.
 
@@ -40,8 +43,9 @@ Me concernant, j'ai pas mal bossé sur une **application desktop destinée à pa
 Modules utilisés: _electronjs, react, react-redux, redux, redux-sagas, rxjs, serialport_
 
 Comme d'habitude, bien entendu: **TDD**
-
-![unit test](/img/test-toolkit.gif)
+<div class="max-w-3xl">
+  <img src="/static/img/test-toolkit.gif">
+</div>
 
 J'ai aussi réécrit **une application de test de cartes électroniques en CLI** utilisée par les hardeux mais aussi nos sous-traitants électroniques pour le test de fin de ligne. Un petit soft embarqué (Merci Manu) propose une API via USB et les tests s'appuient sur cette interface pour diagnostiquer le bon câblage des composants.
 

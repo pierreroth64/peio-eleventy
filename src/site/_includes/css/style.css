@@ -1,0 +1,45 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/* Replace prism.css with a different theme if desired */
+@import "./prism.css";
+
+@layer base {
+  body {
+    @apply antialiased text-slate-300 bg-slate-800 ;
+    @apply max-w-4xl mx-auto;
+    @apply font-sans text-base;
+  }
+  .post-tag {
+    @apply p-1 rounded-lg bg-slate-400 mx-1;
+  }
+
+  a {
+    @apply decoration-sky-400 underline decoration-2;
+    @apply hover:bg-sky-400 hover:rounded-sm;
+  }
+
+  h1 {
+    @apply text-xl py-2 font-semibold;
+  }
+
+  h2 {
+    @apply text-xl py-1 font-semibold;
+  }
+
+  .nav {
+    @apply flex;
+  }
+
+  .nav-item {
+    @apply text-2xl mr-4;
+  }
+
+  .nav-item-active {
+    @apply decoration-pink-800 underline;
+  }
+
+  p {
+    @apply py-2;
+  }
+}
