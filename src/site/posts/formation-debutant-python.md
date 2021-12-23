@@ -29,7 +29,9 @@ Mon but était donc de leur dispenser une formation Python ciblée, sur deux jou
 
 La _présentation_ est disponible [ici](http://slides.com/pierreroth64/python-startup) et le _code_ des exemples associés [là](https://github.com/pierreroth64/python-startup).
 
-<iframe src="//slides.com/pierreroth64/python-startup/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="flex justify-center">
+  <iframe src="//slides.com/pierreroth64/python-startup/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## Le bilan
 
