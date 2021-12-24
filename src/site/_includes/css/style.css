@@ -62,8 +62,8 @@
     @apply rounded-lg my-1;
   }
 
-  .postlist-date {
-    @apply italic;
+  .post-date {
+    @apply italic text-sm;
   }
 
   ul {

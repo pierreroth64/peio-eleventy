@@ -4,9 +4,9 @@ eleventyNavigation:
   key: Posts
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(10) %}
-<h3>{% if maxPosts == 1 %} Dernier Post{% else %}{{ maxPosts }} Derniers Posts{% endif %}</h3>
+{% set maxPosts = collections.posts.length | min(20) %}
+<h3>Dernier Posts</h3>
 
-{% set postslist = collections.posts | head(-10) %}
+{% set postslist = collections.posts | head(-20) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
