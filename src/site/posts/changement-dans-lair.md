@@ -6,7 +6,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
 Je ne suis pas un expert en analyse politique. Je ne suis un expert en rien en fait. Juste quelques compétences en développement logiciel. Je suis donc fébrile en écrivant ces lignes car je n’aime pas disserter sur des sujets que je ne maîtrise pas. Mais en cette fin d’année 2016, c’est le trop plein. Une évidence, un constat qui saute aux yeux et dont je ne retrouve pas l’explication sur le web parmi ces éminences grises qui analysent, commentent, décortiquent… toujours et encore… si brillamment. Alors, avec mon non-style et sans envolée lyrique, je vais essayer de partager “mon” sentiment enfin, plutôt celui que j’ai construit au fil des mois en discutant autour de moi et en surfant sur le web. Discours pas toujours bien construit mais j’espère que j’aurai fait passer quelque chose.
 
 ## Le constat général
