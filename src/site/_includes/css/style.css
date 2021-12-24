@@ -58,6 +58,10 @@
     @apply py-2;
   }
 
+  .post {
+    @apply mx-4;
+  }
+
   .post-img {
     @apply rounded-lg my-1;
   }

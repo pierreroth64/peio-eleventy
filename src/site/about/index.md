@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-templateClass: tmpl-post
+templateClass: post
 eleventyNavigation:
   key: A propos
   order: 3
