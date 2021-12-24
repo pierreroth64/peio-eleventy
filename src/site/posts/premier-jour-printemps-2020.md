@@ -9,7 +9,7 @@ layout: layouts/post.njk
 Il y a des journées qui marquent. Ce samedi 21 mars 2020 restera en moi.
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/together.jpeg">
+  <img class="max-w-sm post-img" src="/static/img/together.jpeg">
 </div>
 
 Il est 6h25 et ça fait déjà trop de temps que j’attends que ça sonne. A pas de loup, je me lève et laisse ma petite famille dormir. Sur la route, personne. La campagne béarnaise est magnifique comme d’habitude mais ces jours-ci, mon regard s’attarde. Je file mais je pose aussi mon attention sur chaque détail. Besoin de ralentir intérieurement un peu avant le combat. Je m’apaise un peu. J’ai la boule au ventre. Je pense à celles et ceux qui sont concrètement au feu, physiquement au contact de cette saloperie. Sans masque, sans gel, sans rien. Juste des applaudissements le soir à 20h. J’ai la rage.

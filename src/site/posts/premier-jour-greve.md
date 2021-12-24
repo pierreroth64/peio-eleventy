@@ -3,6 +3,7 @@ title: Mon premier jour de grève
 date: 2019-11-05
 tags:
   - société
+  - environnement
 layout: layouts/post.njk
 ---
 
@@ -13,7 +14,7 @@ Pourquoi ? C’est simple: je suis un privilégié. A 43 ans, ingénieur en dév
 Alors voilà pourquoi je vais faire grève le 5 décembre prochain.
 
 <div class="flex justify-center">
-  <img class="max-w-3xl post-img" src="/static/img/greve.jpeg">
+  <img class="max-w-lg post-img" src="/static/img/greve.jpeg">
 </div>
 
 ## Mon “background”…
@@ -38,7 +39,7 @@ Je n’ai pas eu le parcours professionnel standard d’un ingé qui rentre pour
 
 ## L’élection de Macron et les désillusions
 
-J’ai voté pour Macron. J’y ai cru parce que je saturais de la caste en place, des éternels vieux schnocks de la politique: je n’avais connu qu’eux depuis mes jeunes années ! Macron“semblait” avoir un discours équilibré et il incarnait le renouveau auquel j’aspirais (cf. mon article “Du changement dans l’air”)Naïf ? Certes. Un peu “dégagiste” aussi.
+J’ai voté pour Macron. J’y ai cru parce que je saturais de la caste en place, des éternels vieux schnocks de la politique: je n’avais connu qu’eux depuis mes jeunes années ! Macron“semblait” avoir un discours équilibré et il incarnait le renouveau auquel j’aspirais (cf. mon article [“Du changement dans l’air”](/posts/changement-dans-lair/)). Naïf ? Certes. Un peu “dégagiste” aussi.
 
 ### Le sens des mots
 
@@ -96,7 +97,7 @@ Alors chers amis, cadres du privé, Macron et son gouvernement va essayer de nou
 
 Le 5 décembre je ne vais pas défendre un régime en particulier, je vais protester contre ce monde financiarisé qui écrase tout sur son passage pour le bien-être de quelques-uns. Il y a un “pognon de dingue” sur cette planète. Et bien par notre action déterminée et concertée, il faut maintenant qu’on impose à ces profiteurs une nouvelle donne, pour les gens, pour le bien commun, pour la planète et le vivant.
 
-## C’est donc décidé, le 5 décembre, j’y serai!
+## C’est donc décidé, le 5 décembre, j’y serai !
 
 Le 5 décembre, je ferai donc le premier jour de grève de ma vie pour soutenir:
 
