@@ -15,8 +15,8 @@
   <div class="flex flex-col h-screen justify-between">
     <header class="flex justify-between mb-10">
         <div class="flex items-center">
-          <a href="{{ '/' | url }}"><img class="w-14 h-14 rounded-full mr-4" src="/static/img/peio.jpg" alt=""></a>
-          <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+          <a href="{{ '/' | url }}" class="home"><img class="w-14 h-14 rounded-full mr-4" src="/static/img/peio.jpg" alt=""></a>
+          <h1><a class="home" href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
         </div>
         <ul class="nav">
           {%- for entry in collections.all | eleventyNavigation %}
@@ -33,13 +33,13 @@
 
     <footer class="footer">
       <div class="footer-item">
-        <a href="{{ metadata.github.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/github.svg" alt=""></a>
+        <a href="{{ metadata.github.url | url }}">github</a>
       </div>
       <div class="footer-item">
-        <a href="{{ metadata.linkedin.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/linkedin.svg" alt=""></a>
+        <a href="{{ metadata.linkedin.url | url }}">linkedin</a>
       </div>
       <div class="footer-item">
-        <a href="{{ metadata.twitter.url | url }}"><img class="w-6 h-6 rounded-full bg-white" src="/static/img/social-icons/twitter.svg" alt=""></a>
+        <a href="{{ metadata.twitter.url | url }}">twitter</a>
       </div>
     </footer>
   </body>

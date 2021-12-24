@@ -10,14 +10,10 @@
     @apply max-w-4xl mx-auto;
     @apply font-sans text-lg;
   }
-  .post-tag {
-    @apply px-1 rounded-lg bg-slate-400 mx-1;
-    @apply text-white text-sm;
-  }
 
   a {
     @apply decoration-sky-400 underline decoration-2;
-    @apply hover:bg-sky-400 hover:rounded-sm;
+    @apply hover:decoration-pink-500 hover:rounded-sm;
   }
 
   h1 {
@@ -34,6 +30,16 @@
 
   .nav {
     @apply flex;
+  }
+
+  .home {
+    @apply no-underline;
+  }
+
+  .post-tag {
+    @apply px-1 rounded-lg bg-slate-400 mx-1;
+    @apply text-white text-sm;
+    @apply no-underline;
   }
 
   .nav-item {
@@ -65,6 +71,10 @@
   }
 
   .quote {
-    @apply text-stone-800 p-1 italic bg-slate-300 rounded-lg mx-10 my-4
+    @apply text-stone-800 p-1 italic bg-slate-300 rounded-lg mx-10 my-4;
+  }
+
+  .social-icon {
+    @apply w-6 h-6 rounded-full bg-white;
   }
 }
