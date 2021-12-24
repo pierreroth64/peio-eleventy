@@ -3,7 +3,6 @@ title: Application fullstack (React & Node.js)
 date: 2016-12-23
 tags:
   - code
-  - tdd
 layout: layouts/post.njk
 ---
 

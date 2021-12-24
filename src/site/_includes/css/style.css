@@ -28,6 +28,10 @@
     @apply text-lg py-1 font-semibold;
   }
 
+  .intro {
+    @apply my-3;
+  }
+
   .nav {
     @apply flex;
   }
@@ -58,12 +62,20 @@
     @apply rounded-lg my-1;
   }
 
+  .postlist-date {
+    @apply italic;
+  }
+
   ul {
     @apply list-disc ml-10;
   }
 
   .footer {
-    @apply h-10 mt-10 mb-10 flex justify-center;
+    @apply flex justify-center flex-col mb-10;
+  }
+
+  .footer-links {
+    @apply flex justify-center;
   }
 
   .footer-item {
@@ -72,9 +84,5 @@
 
   .quote {
     @apply text-stone-800 p-1 italic bg-slate-300 rounded-lg mx-10 my-4;
-  }
-
-  .social-icon {
-    @apply w-6 h-6 rounded-full bg-white;
   }
 }
