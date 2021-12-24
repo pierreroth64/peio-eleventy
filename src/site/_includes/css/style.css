@@ -7,7 +7,7 @@
 @layer base {
   body {
     @apply antialiased text-slate-300 bg-slate-800 ;
-    @apply max-w-4xl mx-auto mx-4;
+    @apply max-w-4xl mx-auto;
     @apply font-sans text-lg;
   }
 
