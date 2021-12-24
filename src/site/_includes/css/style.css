@@ -8,7 +8,7 @@
   body {
     @apply antialiased text-slate-300 bg-slate-800 ;
     @apply max-w-4xl mx-auto;
-    @apply font-sans text-lg;
+    @apply font-sans text-base;
   }
 
   a {
@@ -36,8 +36,12 @@
     @apply flex;
   }
 
-  .home {
+  .no-decoration {
     @apply no-underline;
+  }
+
+  .avatar {
+    @apply w-14 h-14 rounded-full;
   }
 
   .post-tag {

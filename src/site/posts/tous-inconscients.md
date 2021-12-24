@@ -117,14 +117,13 @@ Sur fond de crise financière mondiale imminente, de pandémies à répétition 
 
 A moins que l'imminence de la catastrophe qui démarre ne fasse surgir la **"refus de parvenir, volonté de ne pas nuire et dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'Histoire.
 
-Vous l'aurez compris. Ce sera donc mon dernier vote.
+Vous l'aurez compris. Ce sera donc mon **dernier vote.**
 Pour un candidat désigné par la [primaire populaire](https://primairepopulaire.fr/).
 Sinon ? 
-Qu'ils aillent tous se faire cuire le cul.
-
+**Qu'ils aillent tous se faire cuire le cul.**
 
 <div class="flex justify-center">
-  <img class="max-w-xl post-img" src="/static/img/primaire-pop.png">
+  <a class="no-decoration" href="https://primairepopulaire.fr/"><img class="max-w-lg post-img" src="/static/img/primaire-pop.png"></a>
 </div>
 
 
