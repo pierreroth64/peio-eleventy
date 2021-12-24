@@ -108,8 +108,7 @@ Et parce qu'il faut un candidat à la présidence, l'déal serait une tête nouv
 
 Quelques fois, je me demande si tous ces égos ne sont finalement pas au courant des enjeux. Perdre est finalement facile puisqu'il n'y à pas à rendre de compte.
 Gagner, ça signifie *FAIRE*** et cette fois-ci **REUSSIR**. Pas le choix. Car ceux qui ont toujours souffert, ceux pour qui se loger et manger est un combat sont habitués. Mais, nous, classes moyennes, nous ne le sommes pas. Ceux qui seront aux commandes ces 5 prochaines années seront donc directement responsables de leur inaction.
-Je n'aimerais pas être à leur place quand la classe moyenne commencera (c'est déjà le cas) à prendre la mouche...
-
+Je n'aimerais pas être à leur place quand la classe moyenne commencera (c'est déjà le cas) à prendre la mouche... ou pire, à avoir faim.
 
 ## Bref
 
