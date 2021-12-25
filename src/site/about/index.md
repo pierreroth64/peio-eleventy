@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 templateClass: post
 eleventyNavigation:
+  title: ?!
   key: A propos
   order: 3
 ---
