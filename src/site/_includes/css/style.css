@@ -28,10 +28,6 @@
     @apply text-lg py-1 font-semibold;
   }
 
-  .intro {
-    @apply my-3;
-  }
-
   .nav {
     @apply flex;
   }
