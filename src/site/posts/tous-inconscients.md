@@ -90,13 +90,13 @@ Ruquier (dont je suis loin d'être un fan) a assez bien résumé la situation fa
 “Si vous voulez à ce point le bien des gens, pourquoi, bon sang, vous n’arrivez pas à vous mettre à 4 ou à 5 autour d’une table, et avoir un programme commun ? (…) Mais si on veut le bien des gens, on met son ego, pas seulement le vôtre, les autres aussi, sous un mouchoir. Et vouloir le bien des gens, c’est s’entendre entre 4 ou 5 personnes intelligentes. C’est pas rester chacun dans son coin”
 </p>
 
-Je n'en doute pas un seul instant: la déception d'une union manquée à ce moment de notre Histoire **désintègrera tous les partis de gauche et les figures politiques y étant rattachées**. Me concernant, elle m'éloignera pour la première fois et certainement définitivement du vote pour une élection nationale. Au chaos national généré par ce combat d'égos minables, je préfèrerai participer modestement à transformer mon territoire avec tous les anonymes altruistes volontaires écoeurés par l'inconscience de ces fous de pouvoir.
+Je n'en doute pas un seul instant: la déception d'une union manquée à ce moment de notre destinée **désintègrera tous les partis de gauche et les figures politiques y étant rattachées**. Me concernant, elle m'éloignera pour la première fois et certainement définitivement du vote pour une élection nationale. Au chaos national généré par ce combat d'égos minables, je préfèrerai participer modestement à transformer mon territoire avec tous les anonymes altruistes volontaires écoeurés par l'inconscience de ces fous de pouvoir.
 
 Bien entendu, certains politiques ont compris tout celà... De Ruffin qui tarde vraiment beaucoup à soutenir Mélenchon à Larrouturou qui se range derrière la [primaire populaire](https://primairepopulaire.fr/).
 
 ## Le premier qui dégaine a gagné
 
-Et pourtant... je suis convaincu que **le premier qui dégainera cette main tendue, ce pas en arrière, ce retrait personnel au profit du collectif rentrera dans l'Histoire**.
+Et pourtant... je suis convaincu que **le premier qui dégainera cette main tendue, ce pas en arrière, ce retrait personnel au profit du collectif restera dans les mémoires**.
 Il incarnera l'idéal politique populaire. Celui qui fait passer le peuple avant tout et surtout avant sa propre personne. Il restera celui qui a fait basculer tous les autres. Celui qui a ouvert cette possibilité de victoire. Cette victoire qui sera ressentie, concrètement, dans tous les humbles foyers populaires.
 Car l'urgence absolue de préparation de l'avenir obligera à des manoeuvres de très grande envergure comme aller chercher les milliards d'euros partout (taxe sur les transactions financières, taxation des plus riches, lutte efficace contre la fraude fiscale) ou restructuer le secteur de la finance (séparation banques de dépôts et d'investissements).
 
@@ -107,7 +107,7 @@ Et parce qu'il faut un candidat à la présidence, l'déal serait une tête nouv
 ## La peur d'y aller
 
 Quelques fois, je me demande si tous ces égos ne sont finalement pas au courant des enjeux. Perdre est finalement facile puisqu'il n'y à pas à rendre de compte.
-Gagner, ça signifie *FAIRE*** et cette fois-ci **REUSSIR**. Pas le choix. Car ceux qui ont toujours souffert, ceux pour qui se loger et manger est un combat sont habitués. Mais, nous, classes moyennes, nous ne le sommes pas. Ceux qui seront aux commandes ces 5 prochaines années seront donc directement responsables de leur inaction.
+Gagner, ça signifie **FAIRE** et SURTOUT, cette fois-ci: **REUSSIR**. Pas le choix. Car ceux qui ont toujours souffert, ceux pour qui se loger et manger est un combat sont habitués. Mais, nous, classes moyennes, nous ne le sommes pas. Ceux qui seront aux commandes ces 5 prochaines années seront donc directement responsables de leur inaction.
 Je n'aimerais pas être à leur place quand la classe moyenne commencera (c'est déjà le cas) à prendre la mouche... ou pire, à avoir faim.
 
 ## Bref
@@ -115,7 +115,7 @@ Je n'aimerais pas être à leur place quand la classe moyenne commencera (c'est 
 Ce mandat est donc vital car dans les 5 années qui viennent les conséquences du dérèglement climatique impacteront tout le monde, y compris ceux - comme nous - qui ne s'y attendent pas ou n'y sont pas préparés.
 Sur fond de crise financière mondiale imminente, de pandémies à répétition et de problèmes d'approvisionnement en énergie (cf. vos factures de gaz et bientôt d'élec), je souhaite à tous ces égos bien du courage.
 
-A moins que l'imminence de la catastrophe qui démarre ne fasse surgir la **"refus de parvenir, volonté de ne pas nuire et dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'Histoire.
+A moins que l'imminence de la catastrophe qui démarre ne fasse surgir ce **"refus de parvenir, cette volonté de ne pas nuire et cette dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'histoire de notre pays..
 
 Vous l'aurez compris. Ce sera donc mon **dernier vote.**
 Pour un candidat désigné par la [primaire populaire](https://primairepopulaire.fr/).
