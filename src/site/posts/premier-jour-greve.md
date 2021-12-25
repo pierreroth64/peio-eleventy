@@ -23,7 +23,9 @@ Alors voilà pourquoi je vais faire grève le 5 décembre prochain.
 
 Issu d’une famille que je qualifierais d’engagée, j’ai trempé très tôt dans le bénévolat: le goût de l’effort pour les autres a toujours été un de mes moteurs. Bénévole dès mes 18 ans sur l’organisation du Carnaval Biarnés, j’ai eu l’honneur d’en être le président pendant 4 ans. Comme je l’explique dans mon post “Du changement dans l’air”, notre slogan d’alors était:
 
-  > Le Carnaval Biarnés est ouvert à tous, qu’on soit d’ici ou d’ailleurs, quel que soit le contenu de son porte-monnaie. Il est un lieu d’échange et de partage où l’on répare les coeurs.
+<p class="quote">
+  "Le Carnaval Biarnés est ouvert à tous, qu’on soit d’ici ou d’ailleurs, quel que soit le contenu de son porte-monnaie. Il est un lieu d’échange et de partage où l’on répare les coeurs."
+</p>
 
 Fête ultra-populaire, elle draine une mixité incroyable dans les rues et sous son grand chapiteau autour d’un événement festif, véritable exutoire aux injustices de l’année passée. S’y côtoient des familles de toutes classes sociales, des étudiants, des CSP+, des marginaux, etc…
 
