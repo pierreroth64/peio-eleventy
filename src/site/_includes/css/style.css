@@ -91,6 +91,6 @@
   }
 
   .quote {
-    @apply text-stone-800 p-1 italic bg-slate-300 rounded-lg mx-10 my-4;
+    @apply p-2 italic mx-10 my-4 border-solid border-l-2;
   }
 }
