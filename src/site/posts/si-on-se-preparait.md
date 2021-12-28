@@ -21,31 +21,33 @@ Je vais la faire courte mais à celles et ceux qui croient que la technologie et
 
 Prenez quelques éléments factuels :
 
-* la physique des systèmes dynamiques dit: ***“tout système qui croit de manière continue dans un environnement fini est amené à s’effondrer”***. Imparable sauf si vous êtes un fan de Trump capable de remettre en cause les théories d’Einstein entre deux burgers.
+- la physique des systèmes dynamiques dit: ***“tout système qui croit de manière continue dans un environnement fini est amené à s’effondrer”***. Imparable sauf si vous êtes un fan de Trump capable de remettre en cause les théories d’Einstein entre deux burgers.
 
-* les phénomènes terrestres déclenchés par le réchauffement climatique sont d’une **inertie** telle qu’il faudrait un **quasi arrêt complet de l’activité humaine** comme lors du premier confinement covid-19, **tous les ans**, pour qu’on puisse simplement espérer **atténuer** réellement l’impact.
+- les phénomènes terrestres déclenchés par le réchauffement climatique sont d’une **inertie** telle qu’il faudrait un **quasi arrêt complet de l’activité humaine** comme lors du premier confinement covid-19, **en plus ET tous les ans**, pour qu’on puisse simplement espérer **atténuer** réellement l’impact.
 
-* la **production nécessaire à la “croissance verte” est totalement dépendante du pétrole**. Pour produire des éoliennes ? Faut du pétrole. Pour produire des panneaux photo-voltaïques ? Faut du pétrole. Pour produire des voitures électriques ? Pareil. Pour produire de l’hydrogène ? Pareil. TOUT est pétrole car c’est la source d’énergie la plus concentrée au monde. Et le pétrole, ça produit du CO2.
+- la **production nécessaire à la “croissance verte” est totalement dépendante du pétrole**. Pour produire des éoliennes ? Faut du pétrole. Pour produire des panneaux photo-voltaïques ? Faut du pétrole. Pour produire des voitures électriques ? Pareil. Pour produire de l’hydrogène ? Pareil. TOUT est pétrole car c’est la source d’énergie la plus concentrée au monde. Et le pétrole, ça produit du CO2.
 
-* Il nous reste moins de **10 ans** pour éviter d’activer d’autres boucles de rétroaction gravissimes et inarrêtables à l’échelle humaine (à part si vous pensez être là dans 10 000 ans). Pensez à la bombe climatique de la libération du CH4 (méthane) dégagé par la fonte du permafrost (70 ans plus tôt que prévu! ) et qui est **20 fois plus réchauffant que le CO2**… autant vous dire que si ça s’emballe, ça en est fini de toute vie sur terre en quelques décennies. Oui, relisez lentement, j’ai bien dit: **quelques décennies.**
+- Il nous reste moins de **10 ans** pour éviter d’activer d’autres boucles de rétroaction gravissimes et inarrêtables à l’échelle humaine (à part si vous pensez être là dans 10 000 ans).  
 
 * **Jamais l’Homme n’a effectué de transition énergétique dans son histoire**. Il a juste empilé les ressources d’énergies les unes sur les autres pour en avoir toujours plus.
 
 Je m’arrête là car la liste est malheureusement trop longue. Je considère (et suis loin d’être le seul) que le terme de ***“croissance verte”* est une escroquerie**. On ne peut pas croître, encore, toujours, tous et partout, sur une planète déjà très mal en point en utilisant les dernières cartouches de pétrole qui nous restent… sinon à empirer les phénomènes en cours et à précipiter la chute.
 
-**La technologie ne nous sauvera donc pas cette fois-ci **(*)**. Nous n’avons plus de temps.**
+**La technologie ne nous sauvera donc pas cette fois-ci. Nous n’avons plus de temps de croire à ces conneries.**
 
-**Le changement climatique est inéluctable et il est déjà là. **Le carbone dans l’atmosphère y reste pour des siècles, nous subissons aujourd’hui les effets du carbone émis il y a 40 ans. Imaginez donc ce qu’on va subir dans les années à venir… **Il faut s’enlever de la tête que ce problème va être résolu par la science**. On arrête (mais vraiment hein ?!) de se mentir et de s’accrocher à la parfaite illusion que nous vivrons comme nos parents, dans l’ultra-confort matériel et la prospérité du monde occidental de nos si chers “Boomers”. J’encourage celles et ceux qui sont dans le déni et qui se disent: *“on va bien trouver une solution”* à ouvrir les yeux et à se documenter. Car un des grands enjeux pour limiter la casse, c’est que les gens soient au courant. Qu’ils regardent, bien informés, le danger en face et qu’ils agissent en conséquence. Nous sommes tous de grands donneurs de leçons pour nos enfants: *“As-tu fait des devoirs ?”*, *“C’est important pour ton avenir”*, *“Tu verras quand tu seras grand”*, “*blablabla*…” mais **NOUS ? Avons-nous fait notre travail d’apprentissage sur le plus grand péril qui menace directement notre avenir et celui de nos enfants ? **Ma cervelle ne comprend toujours pas comment des parents aimants soient autant dans le déni. Ils vont vivre le chaos climatique avec leurs petits-amours mais ne s’en soucient pas… **Inconcevable**. *(…pour ma petite tête tout du moins)*
+**Le changement climatique est inéluctable et il est déjà là.** Le carbone dans l’atmosphère y reste pour des siècles, nous subissons aujourd’hui les effets du carbone émis il y a 40 ans. Imaginez donc ce qu’on va subir dans les années à venir… **Il faut s’enlever de la tête que ce problème va être résolu par la science**. On arrête (mais vraiment hein ?!) de se mentir et de s’accrocher à la parfaite illusion que nous vivrons comme nos parents, dans l’ultra-confort matériel et la prospérité du monde occidental de nos si chers “Boomers”. J’encourage celles et ceux qui sont dans le déni et qui se disent: *“on va bien trouver une solution”* à ouvrir les yeux et à se documenter. Car un des grands enjeux pour limiter la casse, c’est que les gens soient au courant. Qu’ils regardent, bien informés, le danger en face et qu’ils agissent en conséquence. Nous sommes tous de grands donneurs de leçons pour nos enfants: *“As-tu fait des devoirs ?”*, *“C’est important pour ton avenir”*, *“Tu verras quand tu seras grand”*, “*blablabla*…” mais **NOUS ? Avons-nous fait notre travail d’apprentissage sur le plus grand péril qui menace directement notre avenir et celui de nos enfants ?** Ma cervelle ne comprend toujours pas comment des parents aimants soient autant dans le déni. Ils vont vivre le chaos climatique avec leurs petits-amours mais ne s’en soucient pas… **Inconcevable**. *(…pour ma petite tête tout du moins)*
 
 Du concret donc pour **apprendre** :
 
-* L’exposé de Valérie Masson-Delmotte (à la Convention Citoyenne Pour le Climat) qui a mis littéralement une claque à tou.te.s les participant.e.s (je vous ai calé la vidéo sur le début de son intervention) : [ici](https://www.youtube.com/watch?v=oSPb5o7oZIU&t=13m30s)
+- L’exposé de Valérie Masson-Delmotte (à la Convention Citoyenne Pour le Climat) qui a mis littéralement une claque à tou.te.s les participant.e.s (je vous ai calé la vidéo sur le début de son intervention) : [ici](https://www.youtube.com/watch?v=oSPb5o7oZIU&t=13m30s)
 
-* Les cours de Jean-Marc Jancovici, un des plus grands experts français sur le changement climatique: [ici](https://slides.pimoid.fr/jancovici/mines_2019/). Laissez-vous embarquer par le cours n°1 sur l’énergie… absolument limpide.
+- lien vers conf Janco
 
-* Et une vidéo passionnante sur Sergey Zimov et sa famille, scientifique russe basé en Sibérie, qui a formulé une hypothèse crédible pour lutter contre la fonte du permafrost: [ici](https://www.youtube.com/watch?v=6GW0QP-chFk)
+- Les cours de Jean-Marc Jancovici, un des plus grands experts français sur le changement climatique: [ici](https://slides.pimoid.fr/jancovici/mines_2019/). Laissez-vous embarquer par le cours n°1 sur l’énergie… absolument limpide.
 
-*(*) Il est d’ailleurs assez frappant qu’une majorité de celles et ceux avec qui je parle et qui ne se laissent pas embarquer dans la croyance en une “croissance verte” sont souvent de formation scientifique. Au contact de la science au quotidien, elles/ils savent pertinemment que les avancées et découvertes ne seront pas au rendez-vous à temps cette fois-ci.*
+- Et une vidéo passionnante sur Sergey Zimov et sa famille, scientifique russe basé en Sibérie, qui a formulé une hypothèse crédible pour lutter contre la fonte du permafrost: [ici](https://www.youtube.com/watch?v=6GW0QP-chFk)
+
+*Remarque en passant: il est assez frappant qu’une majorité de celles et ceux avec qui je parle et qui ne se laissent pas embarquer dans la croyance en une “croissance verte” sont souvent de formation scientifique. Au contact de la science au quotidien, elles/ils savent pertinemment que les avancées et découvertes ne seront pas au rendez-vous à temps cette fois-ci.*
 
 <div class="flex justify-center">
   <img class="max-w-xl post-img" src="/static/img/caliamiento-global.jpeg">
@@ -53,11 +55,11 @@ Du concret donc pour **apprendre** :
 
 ## Mais alors, si “tout est joué”, on ne fait rien !?
 
-Et bien non, **au contraire **! Car **tout n’est pas joué**. Autant certains grands mécanismes dévastateurs sont enclenchés et il va falloir faire avec, autant **chaque dixième de degré compte**. Et ceux-là, il va falloir aller les chercher avec les dents car ils feront la différences entre un monde soutenable et un monde invivable demain.
+Et bien non, **au contraire!** Car **tout n’est pas joué**. Autant certains grands mécanismes dévastateurs sont enclenchés et il va falloir faire avec, autant **chaque dixième de degré compte**. Et ceux-là, il va falloir aller les chercher avec les dents car ils feront la différences entre un monde soutenable et un monde invivable demain. (*Rappel pour que ce soit bien clair: "demain" = quand nos enfants auront notre âge*)
 
-Maintenant écartée l’idée farfelue de la possibilité d’éviter les conséquences du changement climatique, j’en viens donc au cœur de cet article: ***“Et si on se préparait…”*** . Je me suis souvent trouvé démuni, surtout au début de [ma prise de conscience](https://medium.com/@pierreroth64/mon-petit-guide-sur-leffondrement-f6f9369766e7), face à mon angoisse pour demain. Comment et pourquoi lutter ? Conscient d’être une minuscule goutte d’eau, le sentiment d’impuissance a rongé mes nuits et j’ai souvent posé un regard triste et perdu sur mes enfants. Mais avec le temps, j’ai appris.** Ce qui me soigne désormais, au quotidien, malgré certaines nuits agitées, c’est de construire un chemin concret de transformation et de préparation pour celles et ceux qui me sont chers**.
+Maintenant écartée l’idée farfelue de la possibilité d’éviter les conséquences du changement climatique, j’en viens donc au cœur de cet article: ***“Et si on se préparait…”*** . Je me suis souvent trouvé démuni, surtout au début de [ma prise de conscience](/posts/guide-effondrement), face à mon angoisse pour demain. Comment et pourquoi lutter ? Conscient d’être une minuscule goutte d’eau, le sentiment d’impuissance a rongé mes nuits et j’ai souvent posé un regard triste et perdu sur mes enfants. Mais avec le temps, j’ai appris. **Ce qui me soigne désormais, au quotidien, malgré certaines nuits agitées, c’est de construire un chemin concret de transformation et de préparation pour celles et ceux qui me sont chers**.
 
-Et c’est là fondamental. **Construire un nouvel horizon, un nouvel imaginaire. **Pas un rêve *de “bisounours”* sur une planète aux ressources infinies et au climat clément mais un futur [espérons-le] heureux dans un monde aux contextes climatique, géopolitique, alimentaire, etc… extrêmement difficiles.
+Et c’est là fondamental. **Construire un nouvel horizon, un nouvel imaginaire.** Pas un rêve *de “bisounours”* sur une planète aux ressources infinies et au climat clément mais un futur - espérons-le - heureux dans un monde aux contextes climatique, géopolitique, alimentaire, etc… extrêmement difficiles.
 
 En terre de Béarn, je me prépare avec mes enfants, ma famille et amis. Mais avant de rentrer dans le concret, besoin de vous partager quelques réflexions.
 
@@ -71,41 +73,41 @@ Tout d’abord et en vrac, quelques éléments fondamentaux pour comprendre le c
 
 ### Un système distribué
 
-Nous l’avons bien vu avec la crise en cours du covid-19, notre système mondial est ultra fragile car totalement interdépendant. Le moindre pépin à un bout de la planète se répercute immédiatement chez nous. On a hyper-spécialisé les pays et si celui qui produit la majorité de tel produit a des soucis, alors c’est tout l’ensemble qui vacille. Dans le domaine de l’informatique, on appelle ça le [*“point de défaillance unique”](https://fr.wikipedia.org/wiki/Point_de_d%C3%A9faillance_unique)* et on a compris qu’un seul gros serveur hébergeant toutes les données, c’était sacrément dangereux et hyper-fragile face au risque de panne. La tendance massive a alors été de déployer les services sur de multiples petits serveurs **distribués** aux quatre coins de la planète. Un de ces serveurs en panne ? Rien de trop grave, les autres prennent le relais.
+Nous l’avons bien vu avec la crise en cours du covid-19, notre système mondial est ultra fragile car totalement interdépendant. Le moindre pépin à un bout de la planète se répercute immédiatement chez nous. On a hyper-spécialisé les pays et si celui qui produit la majorité de tel produit a des soucis, alors c’est tout l’ensemble qui vacille. Dans le domaine de l’informatique, on appelle ça le *[“point de défaillance unique”](https://fr.wikipedia.org/wiki/Point_de_d%C3%A9faillance_unique)* et on a compris qu’un seul gros serveur hébergeant toutes les données, c’était sacrément dangereux et hyper-fragile face au risque de panne. La tendance massive a alors été de déployer les services sur de multiples petits serveurs **distribués** aux quatre coins de la planète. Un de ces serveurs en panne ? Rien de trop grave, les autres prennent le relais.
 
-La même** distribution des savoir-faire sur le territoire peut permettre une meilleure résilience**. Plus de spécialiste unique mais plutôt des communautés pluridisciplinaires qui assurent tous les besoins vitaux comme la santé, l’alimentation, l’énergie.
+La même **distribution des savoir-faire sur le territoire peut permettre une meilleure résilience**. Plus de spécialiste unique mais plutôt des communautés pluridisciplinaires qui assurent tous les besoins vitaux comme la santé, l’alimentation, l’énergie.
 
-Le [municipalisme libertaire](https://fr.wikipedia.org/wiki/Municipalisme_libertaire) m’inspire beaucoup car il met le **citoyen au cœur de l’organisation et de la prise de décision **au sein de communautés distribuées sur le territoire. Loin d’être une utopie délirante, il va assez loin dans sa conception du fonctionnement d’une communauté humaine (assemblées citoyennes) et des interactions entre communautés (nécessaires pour les projets de plus grande envergure)
+Le [municipalisme libertaire](https://fr.wikipedia.org/wiki/Municipalisme_libertaire) m’inspire beaucoup car il met le **citoyen au cœur de l’organisation et de la prise de décision** au sein de communautés distribuées sur le territoire. Loin d’être une utopie délirante, il va assez loin dans sa conception du fonctionnement d’une communauté humaine (assemblées citoyennes) et des interactions entre communautés (nécessaires pour les projets de plus grande envergure)
 
 ### L’entraide
 
-Face à ce qui se profile, j’ai la conviction que l’**entraide sera la clé**. Ce n’est pas une croyance mais une réflexion suite à de multiples lectures (et notamment [*“L’entraide, l’autre loi de la jungle”](http://www.editionslesliensquiliberent.fr/livre-L_Entraide-9791020904409-1-1-0-1.html)* ou [“L’entraide, un facteur de l’évolution”](https://www.librairiesindependantes.com/product/9791092457391/)). Une communauté de vie bien soudée, aux liens multiples sera bien plus à même d’affronter les aléas de tout ordre (climatique, alimentaire, etc…). Nous l’avons tous vécu pendant le confinement du printemps 2020: ce qui fonctionne ce sont des gens qui s’entraident, qui cousent des masques, qui se préparent des repas. Sur ce thème, nous avons beaucoup à **ré**-apprendre.
+Face à ce qui se profile, j’ai la conviction que l’**entraide sera la clé**. Ce n’est pas une croyance mais une réflexion suite à de multiples lectures (et notamment *[“L’entraide, l’autre loi de la jungle”](http://www.editionslesliensquiliberent.fr/livre-L_Entraide-9791020904409-1-1-0-1.html)* ou *[“L’entraide, un facteur de l’évolution”](https://www.librairiesindependantes.com/product/9791092457391/))*. Une communauté de vie bien soudée, aux liens multiples sera bien plus à même d’affronter les aléas de tout ordre (climatique, alimentaire, etc…). Nous l’avons tous vécu pendant le confinement du printemps 2020: ce qui fonctionne ce sont des gens qui s’entraident, qui cousent des masques, qui se préparent des repas. Sur ce thème, nous avons beaucoup à **ré**-apprendre.
 
-Nous avons été élevés et éduqués sur le modèle de la compétition dès notre plus jeune âge: le chacun pour soi. Mais, à n’en pas douter, celui qui marchera seul ne marchera pas longtemps 😅. **Il va donc falloir apprendre à collaborer**, faire des compromis, échanger, pour être plus fort ensemble. 
+Nous avons été élevés et éduqués sur le modèle de la compétition dès notre plus jeune âge: le chacun pour soi. Mais, à n’en pas douter, celui qui marchera seul ne marchera pas longtemps 😅. **Il va donc falloir apprendre à collaborer**, faire des compromis, échanger, pour être plus forts ensemble. 
 
 Il y a un domaine qui peut énormément nous aider sur le plan de l’entraide: c’est le **monde paysan**. Malgré le modèle productiviste vers lequel on a poussé nos agriculteurs, les paysans ont conservé de façon très vivace le goût de l’entraide. Au delà de la mutualisation du matériel (via les [CUMA](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27utilisation_de_mat%C3%A9riel_agricole)), se donner un coup de main pour la moisson ou la réparation d’une machine, c’est leur quotidien. Je pense que ce sera ce genre d’interaction qu’il faudra travailler. S’entraider pour faire face.
 
-Ah au fait !!! J’ai une excellente nouvelle pour la majorité de la population et notamment les plus fragiles d’entre nous: **le lien, le vrai, le sincère, c’est le propre du petit et pas du puissant !** Les vraies relations, celles qui ne sont pas basées sur l’argent, sont celles qui tiennent face aux chocs. Lorsque des événements violents s’enchaineront  (cf. [Mon petit guide sur l’effondrement](https://medium.com/@pierreroth64/mon-petit-guide-sur-leffondrement-f6f9369766e7)), la classe des puissants se poignardera dans le dos car son modèle de référence c’est la compétition absolue. De notre côté, si nous y travaillons, nous serons plus à même de nous tendre la main. J’ai bien dit “**si nous y travaillons”** car immédiatement après l’état de sidération suite à de fortes secousses qui conduit généralement l’être humain à aider sans calcul son semblable, il faudra apprendre à continuer cet effort. Faute de quoi… la barbarie et le chaos.
+Ah au fait !!! J’ai une excellente nouvelle pour la majorité de la population et notamment les plus fragiles d’entre nous: **le lien, le vrai, le sincère, c’est le propre du petit et pas du puissant !** Les vraies relations, celles qui ne sont pas basées sur l’argent, sont celles qui tiennent face aux chocs. Lorsque des événements violents s’enchaineront  (cf. [Mon petit guide sur l’effondrement](/posts/guide-effondrement)), la classe des puissants se poignardera dans le dos car son modèle de référence c’est la compétition absolue. De notre côté, si nous y travaillons, nous serons plus à même de nous tendre la main. J’ai bien dit “**si nous y travaillons”** car immédiatement après l’état de sidération suite à de fortes secousses qui conduit généralement l’être humain à aider sans calcul son semblable, il faudra apprendre à continuer cet effort. Faute de quoi… la barbarie et le chaos.
 
-### Le plus important ? Le temps !!!
+## Le plus important ? Le temps !!!
 
-### **Du temps… pour changer**
+### Du temps… pour changer
 
-Apprendre à collaborer, à partager,** changer** ses habitudes, apprendre de nouveaux savoir-faire, etc… ? Que de choses à faire ! Ce que je voudrais souligner ici, c’est que **ces changements prennent beaucoup de temps à mettre en place**.
+Apprendre à collaborer, à partager, **changer** ses habitudes, apprendre de nouveaux savoir-faire, etc… ? Que de choses à faire ! Ce que je voudrais souligner ici, c’est que **ces changements prennent beaucoup de temps à mettre en place**.
 
-* Vous voulez démarrer un petit jardin potager ? Définir l’endroit, trouver les plants, préparer la terre, trouver du fumier, s’outiller, apprendre l’enchaînement et la compatibilité des cultures, discuter avec son voisin jardinier, etc… Sa mise en place prend du temps, son entretien aussi bien évidemment.
+- Vous voulez démarrer un petit jardin potager ? Définir l’endroit, trouver les plants, préparer la terre, trouver du fumier, s’outiller, apprendre l’enchaînement et la compatibilité des cultures, discuter avec son voisin jardinier, etc… Sa mise en place prend du temps, son entretien aussi bien évidemment.
 
-* Vous voulez modifier votre mode de transport ? Perdu au début, la construction d’un nouveau planning se fera petit à petit. 
+- Vous voulez modifier votre mode de transport ? Perdu au début, la construction d’un nouveau planning se fera petit à petit. 
 
-* Vous voulez carrément quitter une ville et vous rapprocher de la nature ? Très belle ambition qui pourra prendre… des années !
+- Vous voulez carrément quitter une ville et vous rapprocher de la nature ? Très belle ambition qui pourra prendre… des années !
 
-**Ce temps à consacrer pour changer est pour moi un des points cruciaux**: il est bien plus facile de faire des **petits pas dès à présent **qu’un grand pas lorsqu’on sera dos au mur. Je détaillerai plus loin la liste concrète des petits pas de ma famille en cours et à venir.
+**Ce temps à consacrer pour changer est pour moi un des points cruciaux**: il est bien plus facile de faire des **petits pas dès à présent** qu’un grand pas lorsqu’on sera dos au mur. Je détaillerai plus loin la liste concrète des petits pas de ma famille en cours et à venir.
 
 ### Du temps… pour absorber
 
 **Certainement le plus dur**. Et c’est finalement, ce que je ne comprends pas bien dans la logique de certaines personnes aujourd’hui. On ne peut y échapper: chaque nouvelle “climatique” entendue à la radio, à la TV, lue/vue sur le web est totalement alarmante. Face à un tel danger si imminent, le bon sens voudrait qu’on s’y penche avec intérêt. Mais non. Le déni. Ou le désintérêt (cf. le [syndrome de la référence changeante](https://reporterre.net/L-amnesie-environnementale-cle-ignoree-de-la-destruction-du-monde), qui dit, en substance que: “*chaque génération oublie que l’état de la nature qu’elle considère normal est  déjà dégradé par rapport aux générations précédentes, ce qui avait comme conséquence d’empêcher une prise de conscience globale”*). Par exemple: impensable au début de sa mise en place, l’approvisionnement de certains départements en eau potable par camions citernes est maintenant totalement assimilé par la population. On “trouve ça normal”… de ne plus trouver d’eau à boire dans son département !
 
-Je pense sincèrement qu’**absorber l’impact psychologique de ces nouvelles angoissantes  de façon volontaire et documentée est salutaire**. Toujours la même philosophie du *“petit à petit”* plutôt que *“tout d’un seul coup”*. On s’habitue alors à ces mauvaises nouvelles car on sait, on a appris. Comme avec une maladie incurable, on apprend à vivre avec et au bout d’un moment, on cohabite. L’impact psychologique est réel et non négligeable: **le temps est alors un allié précieux** mais ne peut faire entièrement son travail d’apaisement que si la prise de conscience est précoce.
+Je pense sincèrement qu’**absorber l’impact psychologique de ces nouvelles angoissantes de façon volontaire et documentée est salutaire**. Toujours la même philosophie du *“petit à petit”* plutôt que *“tout d’un seul coup”*. On s’habitue alors à ces mauvaises nouvelles car on sait, on a appris. Comme avec une maladie incurable, on apprend à vivre avec et au bout d’un moment, on cohabite. L’impact psychologique est non négligeable: **le temps est alors un allié précieux** mais ne peut faire entièrement son travail d’apaisement que si la prise de conscience est précoce.
 
 ### Du temps… pour la pleine conscience
 
@@ -133,11 +135,9 @@ A toutes celles et ceux qui sont perdus devant la catastrophe à venir, voici mo
 
 Voici mes étapes:
 
-1. Tout d’abord, se documenter un minimum sur ce qui est en train de se passer sur le plan du climat mondial et de la biodiversité (6ème extinction de masse en cours). Attention à bien recouper les sources et à suivre de vrais scientifiques ou vulgarisateurs crédibles. Je vous conseille [BonPote](https://bonpote.com/) ([ici](https://www.facebook.com/bonpoteofficiel) son facebook).
-
-1. Des conséquences présentées par les scientifiques, établir “une hiérarchie des préférences”… et établir “une vision”. J’expliquerai ces notions ci-après.
-
-1. Se mettre en action. La conséquence de la mise en action étant, rapidement, l’apaisement intérieur.
+- Tout d’abord, se documenter un minimum sur ce qui est en train de se passer sur le plan du climat mondial et de la biodiversité (6ème extinction de masse en cours). Attention à bien recouper les sources et à suivre de vrais scientifiques ou vulgarisateurs crédibles. Je vous conseille [BonPote](https://bonpote.com/) ([ici](https://www.facebook.com/bonpoteofficiel) son facebook).
+- Des conséquences présentées par les scientifiques, établir “une hiérarchie des préférences”… et établir “une vision”. J’expliquerai ces notions ci-après.
+- Se mettre en action. La conséquence de la mise en action étant, rapidement, l’apaisement intérieur.
 
 ### La “hiérarchie des préférences” et la “vision”
 
@@ -157,11 +157,11 @@ Je connais mon idéal désormais. Et j’ai construit un chemin pour l’atteind
 
 J’ai une chance de dingo. Je vis dans un fabuleux village au pied des Pyrénées et je considère que c’est l’endroit qui me convient le mieux pour affronter ce qui arrive et construire mon avenir désirable.
 
-Parmi tous les risques à venir, celui qui me secoue le plus profondément c’est celui de l’alimentation. Je suis persuadé, qu’à court terme -  oui, j’ai bien dit à **court** terme - l’Europe connaitra des problèmes d’approvisionnements alimentaires sérieux. Aussi, tout naturellement, je me mets en action pour produire des cultures vivrières. 
+Parmi tous les risques à venir, celui qui me secoue le plus profondément, intimement, c’est celui de l’alimentation. Je suis persuadé, qu’à court terme -  oui, j’ai bien dit à **court** terme - l’Europe connaitra des problèmes d’approvisionnements alimentaires sérieux. Aussi, tout naturellement, je me mets en action pour produire des cultures vivrières. 
 
-Le problème connexe est évidemment l’approvisionnement en eau et les épisodes de sécheresse désormais annuels qui s’intensifieront. La récupération d’eau de pluie est me paraît tout aussi importante.
+Le problème connexe est évidemment l’approvisionnement en eau et les épisodes de sécheresse désormais annuels qui s’intensifieront. La récupération d’eau de pluie me paraît donc tout aussi importante.
 
-Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte pour la biodiversité **(les deux sujets alimentation-biodiversité sont d’ailleurs très liés, et plus généralement, tous les sujets sont interconnectés). Je suis très touché par ce que nous, êtres humains, infligeons aux autres humains mais aussi aux autres espèces (flore et faune). Aussi, je compte contribuer à
+Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte pour la biodiversité **(les deux sujets alimentation-biodiversité sont d’ailleurs très liés, et plus généralement, tous les sujets sont interconnectés). Je suis très touché par ce que nous, êtres humains, infligeons aux autres humains mais aussi aux autres espèces (flore et faune). Aussi, je compte modestement contribuer à créer un *"point d'accuponture pour la Nature"* comme le dit si joliment Charles Hervé-Gruyer de la ferme du [Bec Hellouin](https://www.fermedubec.com/) (dont je conseille vivement les trois volumes de ["Vivre avec la Terre"](https://www.fermedubec.com/blog/vivre-avec-la-terre/)).
 
 
 
@@ -171,22 +171,27 @@ Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte po
 
 Vous vivez dans une **grande ville** ? … un seul mot me vient: **fuyez**. Sérieusement, ce type de structure est trop fragile et les échéances sont dures pour transformer ces espaces bétonnés ultra dépendants du pétrole. Je considère déjà ces lieux trop hostiles.
 
-Vous vivez dans une **petite ville **?
+Vous vivez dans une **petite ville**? *TODO*
 
 
 
 ## Conclusion
 
 J’aimerais juste conclure par un échange avec mon ami Diego qui m’est très cher:
-> Je ne me sens pas prêt
-J’ai peur
-Surtout si je n’ai pas une solution en face
-J’ai peur de trop paniquer et prendre de décisions précipitées…
-> La seule chose que je peux te garantir: plus tu te documentes et tu prends le pb à bras le corps, plus tes nuits sont calmes et apaisées car tu sais.
-Tu sais où tu dois aller.
-Tu construis un nouvel avenir.
-Et tu arrêtes de paniquer à chaque mauvaise nouvelle.
-Tu sais et tu fais.
+<p class="quote">
+Je ne me sens pas prêt <br>
+J’ai peur <br>
+Surtout si je n’ai pas une solution en face <br>
+J’ai peur de trop paniquer et prendre de décisions précipitées… <br>
+<br>
+La seule chose que je peux te garantir: plus tu te documentes et tu prends le pb à bras le corps, plus tes nuits sont calmes et apaisées car tu sais.<br>
+Tu sais où tu dois aller.<br>
+Tu construis un nouvel avenir.<br>
+Et tu arrêtes de paniquer à chaque mauvaise nouvelle.<br>
+Tu sais et tu fais.<br>
+</p>
+
+Voilà où j’en suis les z’amics ! Prenez bien soin de vous et… Préparez-vous ! 😘
 
 dignité du présent, construire localement ce que l’on souhaite universel
 
@@ -210,23 +215,18 @@ Donner, mensuellement, une petite somme à un projet. Je consacre 20 euros / moi
 
 A travailler: la consommation de produit locaux (et oui on va au super U) avec totdecasa (ou autre: n’est-ce pas Audrey ? 😉)
 
-CONCLUSIOn
-
-Voilà où j’en suis les z’amics ! Prenez bien soin de vous et… Préparez-vous ! 😘
-
-
-
-
-
-Réfléchir l’après mais de façon pragmatique. Nous savons tous que le monde d’après sera différent. Il est de notre responsabilité qu’il soit différent. Vraiment. 
 
 Me concernant: l’alimentation en premier lieu (photo bacs, patates) puis, plus large, en groupe, l’énergie sur Lasseube. Et en corollaire: proposer un îlot de répis pour les animaux, insectes et plantes. TISSER DU LIEN ! Car ce n’est que ça qui permettra la résilience. Et là c’est cool ! Parce que le lien, le vrai, le sincère, c’est le propre du petit et pas du puissant.
 [**Les Greniers d'Abondance - vers la résilience alimentaire !**
 *Les Greniers d'Abondance : Comprendre les vulnérabilités de notre système alimentaire actuel et étudier les voies de…*resiliencealimentaire.org](https://resiliencealimentaire.org/)
 
 
+⚠️ réduire volontairement la voilure pour les plus riches (refus de parvenir, dignité du présent)
 
+=> crash psycho, exponentielle de prise de conscience
+Lien avec don't look UP
 
+Personne n'ecoute et quand l'exponentielle de prise de conscience décollera il sera trop tard
 
 
 
@@ -246,14 +246,5 @@ Liste des actions concrètes:
 
 Mentionner les cours de Janco… ?
 
-
-
 **Attention: jamais nous ne serons préparés à un effondrement. Seuls ceux qui en ont vécu un savent. **
-
-
-
-Mettre un lien vers tous les articles: [https://medium.com/@pierreroth64](https://medium.com/@pierreroth64)
-
-
-
 
