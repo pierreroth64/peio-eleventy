@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 C’est systématique. A chaque fois que je parle de changement climatique et d’effondrement de la biodiversité lors de repas, apéros et autres rencontres avec des membres de ma famille, des amis ou connaissances, je “lutte” un peu pour exposer mes idées. La convivialité du moment ne m’aide pas (un verre de trop ?!) et la gravité du sujet m’interdit de m’étaler pour ne pas plomber l’ambiance (si si, je me freine !). J’aimerais donc ici poser quelques réflexions. 
 
-## Le mythe de: “la technologie va nous sauver”
+## Le mythe de “la technologie va nous sauver”
 
 Je vous vois déjà venir: *“Non mais Peio, tu n’as écrit que quelques lignes et tu t’énerves déjà !”* 😜… Ouais… mais bon, faut quand même arrêter de balancer de grosses conneries aussi. Il y a des experts auto-proclamés partout sur les plateaux de télé, tout autant que de sélectionneurs de football dans les PMU. J’essaie plutôt de me positionner dans la catégorie des ignorants qui se soignent, c’est-à-dire des apprenants.
 
@@ -21,7 +21,7 @@ Je vais la faire courte mais à celles et ceux qui croient que la technologie et
 
 Prenez quelques éléments factuels :
 
-- la physique des systèmes dynamiques dit: ***“tout système qui croit de manière continue dans un environnement fini est amené à s’effondrer”***. Imparable sauf si vous êtes un fan de Trump capable de remettre en cause les théories d’Einstein entre deux burgers.
+- l'étude des systèmes dynamiques dit: ***“tout système qui croit de manière continue dans un environnement fini est amené à s’effondrer”***. C'est de la physique. Imparable sauf si vous êtes un fan de Trump capable de remettre en cause les théories d’Einstein entre deux burgers.
 
 - les phénomènes terrestres déclenchés par le réchauffement climatique sont d’une **inertie** telle qu’il faudrait un **quasi arrêt complet de l’activité humaine** comme lors du premier confinement covid-19, **en plus ET tous les ans**, pour qu’on puisse simplement espérer **atténuer** réellement l’impact.
 
@@ -33,15 +33,15 @@ Prenez quelques éléments factuels :
 
 Je m’arrête là car la liste est malheureusement trop longue. Je considère (et suis loin d’être le seul) que le terme de ***“croissance verte”* est une escroquerie**. On ne peut pas croître, encore, toujours, tous et partout, sur une planète déjà très mal en point en utilisant les dernières cartouches de pétrole qui nous restent… sinon à empirer les phénomènes en cours et à précipiter la chute.
 
-**La technologie ne nous sauvera donc pas cette fois-ci. Nous n’avons plus de temps de croire à ces conneries.**
+**La technologie ne nous sauvera donc pas cette fois-ci. Nous n’avons plus de temps pour croire à ces conneries.**
 
-**Le changement climatique est inéluctable et il est déjà là.** Le carbone dans l’atmosphère y reste pour des siècles, nous subissons aujourd’hui les effets du carbone émis il y a 40 ans. Imaginez donc ce qu’on va subir dans les années à venir… **Il faut s’enlever de la tête que ce problème va être résolu par la science**. On arrête (mais vraiment hein ?!) de se mentir et de s’accrocher à la parfaite illusion que nous vivrons comme nos parents, dans l’ultra-confort matériel et la prospérité du monde occidental de nos si chers “Boomers”. J’encourage celles et ceux qui sont dans le déni et qui se disent: *“on va bien trouver une solution”* à ouvrir les yeux et à se documenter. Car un des grands enjeux pour limiter la casse, c’est que les gens soient au courant. Qu’ils regardent, bien informés, le danger en face et qu’ils agissent en conséquence. Nous sommes tous de grands donneurs de leçons pour nos enfants: *“As-tu fait des devoirs ?”*, *“C’est important pour ton avenir”*, *“Tu verras quand tu seras grand”*, “*blablabla*…” mais **NOUS ? Avons-nous fait notre travail d’apprentissage sur le plus grand péril qui menace directement notre avenir et celui de nos enfants ?** Ma cervelle ne comprend toujours pas comment des parents aimants soient autant dans le déni. Ils vont vivre le chaos climatique avec leurs petits-amours mais ne s’en soucient pas… **Inconcevable**. *(…pour ma petite tête tout du moins)*
+**Le changement climatique est inéluctable et il est déjà là.** Le carbone dans l’atmosphère y reste pour des siècles, nous subissons aujourd’hui les effets du CO2 émis il y a 40 ans. Imaginez donc ce qu’on va subir dans les années à venir… **Il faut s’enlever de la tête que ce problème va être résolu par la science**. On arrête (mais vraiment hein ?!) de se mentir et de s’accrocher à la parfaite illusion que nous vivrons comme nos parents, dans l’ultra-confort matériel et la prospérité du monde occidental de nos si chers “Boomers”. J’encourage celles et ceux qui sont dans le déni et qui se disent: *“on va bien trouver une solution”* à ouvrir les yeux et à se documenter. Car un des grands enjeux pour limiter la casse, c’est que les gens soient au courant. Qu’ils regardent, bien informés, le danger en face et qu’ils agissent en conséquence. Nous sommes tous de grands donneurs de leçons pour nos enfants: *“As-tu fait des devoirs ?”*, *“C’est important pour ton avenir”*, *“Tu verras quand tu seras grand”*, “*blablabla*…” mais **NOUS ? Avons-nous fait notre travail d’apprentissage sur le plus grand péril qui menace directement notre avenir et celui de nos enfants ?** Ma cervelle ne comprend toujours pas comment des parents aimants soient autant dans le déni. Ils vont vivre le chaos climatique avec leurs petits-amours mais ne s’en soucient pas… **Inconcevable**. *(…pour ma petite tête tout du moins)*
 
 Du concret donc pour **apprendre** :
 
 - L’exposé de Valérie Masson-Delmotte (à la Convention Citoyenne Pour le Climat) qui a mis littéralement une claque à tou.te.s les participant.e.s (je vous ai calé la vidéo sur le début de son intervention) : [ici](https://www.youtube.com/watch?v=oSPb5o7oZIU&t=13m30s)
 
-- ❤️ Un très gros coup de coeur (Merci Rachel, ma jolie mère Noël): la BD ["Le Monde Sans Fin"](https://www.librairiesindependantes.com/product/9782205088168/) de Christophe Blain, Jean-Marc Jancovici chez Dargaud.
+- ❤️ Un très gros coup de coeur (Merci Rachel, ma jolie mère Noël): la BD ["Le Monde Sans Fin"](https://www.librairiesindependantes.com/product/9782205088168/) chez Dargaud.
 
 - Les cours de Jean-Marc Jancovici, un des plus grands experts français sur le changement climatique: [ici](https://slides.pimoid.fr/jancovici/mines_2019/). Laissez-vous embarquer par le cours n°1 sur l’énergie… absolument limpide.
 
@@ -99,7 +99,7 @@ Apprendre à collaborer, à partager, **changer** ses habitudes, apprendre de no
 
 - Vous voulez carrément quitter une ville et vous rapprocher de la nature ? Très belle ambition qui pourra prendre… des années !
 
-**Ce temps à consacrer pour changer est pour moi un des points cruciaux**: il est bien plus facile de faire des **petits pas dès à présent** qu’un grand pas lorsqu’on sera dos au mur. Je détaillerai plus loin la liste concrète des petits pas de ma famille en cours et à venir.
+**Ce temps à consacrer pour changer est pour moi un des points cruciaux**: il est bien plus facile de faire des **petits pas dès à présent** qu’un grand pas lorsqu’on sera dos au mur.
 
 ### Du temps… pour absorber
 
@@ -107,11 +107,11 @@ Apprendre à collaborer, à partager, **changer** ses habitudes, apprendre de no
 
 Je pense sincèrement qu’**absorber l’impact psychologique de ces nouvelles angoissantes de façon volontaire et documentée est salutaire**. Toujours la même philosophie du *“petit à petit”* plutôt que *“tout d’un seul coup”*. On s’habitue alors à ces mauvaises nouvelles car on sait, on a appris. Comme avec une maladie incurable, on apprend à vivre avec et au bout d’un moment, on cohabite. L’impact psychologique est non négligeable: **le temps est alors un allié précieux** mais ne peut faire entièrement son travail d’apaisement que si la prise de conscience est précoce.
 
-Lorsqu'on parle des limites terrestres que l'humanité dépasse allègrement depuis des décennies, on voit émerger des [exponentielles](https://fr.wikipedia.org/wiki/Fonction_exponentielle) dont la compréhension n'est pas naturelle chez l'homme qui préfère le [linéaire](https://fr.wikipedia.org/wiki/Fonction_lin%C3%A9aire_(analyse)). Il y a ainsi l'exponentielle de l'effondrement de la biodiversité, de la pollution, etc... Je pense qu'il existe aussi l'**exponentielle de prise de conscience** du changement climatique inéluctable. La quantité de personnes conscientes progresse lentement au début, puis tout s'accélère. Je redoute et j'espère à la fois le moment où une partie significative de la population aura compris. Je redoute car ça pourrait précipiter un crash psychologique planétaire ou tout le monde courrait "comme des rats empoisonnés", un peu comme dans le film [Don't Look Up - Déni cosmique](https://fr.wikipedia.org/wiki/Don%27t_Look_Up_:_D%C3%A9ni_cosmique) (belle allégorie que je conseille vivement). Mais cette exponentielle me donne aussi beaucoup d'espoir: si elle est assez rapide, si la population prend conscience en masse rapidement, l'Humanité pourrait prendre le plus grand (et serré) virage de toute l'Histoire en bâtissant une société durable basée sur la sobriété (et en dégageant donc le capitalisme et sa société de consommation, on est bien d'accord)
+Lorsqu'on parle des limites terrestres que l'humanité dépasse allègrement depuis des décennies, on voit émerger des [exponentielles](https://fr.wikipedia.org/wiki/Fonction_exponentielle) dont la compréhension n'est pas naturelle chez l'homme qui préfère le [linéaire](https://fr.wikipedia.org/wiki/Fonction_lin%C3%A9aire_(analyse)). Il y a ainsi l'exponentielle de l'effondrement de la biodiversité, de la pollution, etc... Je pense qu'il existe aussi l'**exponentielle de prise de conscience** du changement climatique inéluctable. La quantité de personnes conscientes progresse lentement au début, puis tout s'accélère. Je redoute et j'espère à la fois le moment où une partie significative de la population aura compris. Je redoute car ça pourrait précipiter un crash psychologique planétaire où tout le monde se mettrait à courir "comme des rats empoisonnés", un peu comme dans le film [Don't Look Up - Déni cosmique](https://fr.wikipedia.org/wiki/Don%27t_Look_Up_:_D%C3%A9ni_cosmique) (belle allégorie que je conseille vivement). Mais cette exponentielle me donne aussi beaucoup d'espoir: si elle est assez rapide, si la population prend conscience en masse rapidement, l'Humanité pourrait prendre le plus grand  virage (et bien serré !) de toute l'Histoire en bâtissant une société durable basée sur la sobriété (et en dégageant donc le capitalisme et sa société de consommation, on est bien d'accord)
 
 ### Du temps… pour la pleine conscience
 
-Faire face aux annonces à venir, les yeux grand ouverts est pour moi fondamental ; le danger étant de sombrer psychologiquement et c’est peut-être ce que redoutent les personnes qui détournent le regard. Une des solutions *“adoucissantes”* pour vivre avec, est d’organiser son apprentissage. Bien se connaître et programmer des temps de pause émotionnelle qui viennent apaiser, faire lâcher prise. Car le sujet est prenant et difficile.
+Faire face aux annonces à venir, les yeux grand ouverts est donc pour moi fondamental ; le danger étant de sombrer psychologiquement et c’est peut-être ce que redoutent les personnes qui détournent le regard. Une des solutions *“adoucissantes”* pour vivre avec, est d’organiser son apprentissage. Bien se connaître et programmer des temps de pause émotionnelle qui viennent apaiser, faire lâcher prise. Car le sujet est prenant et difficile.
 
 Un soir, je me tape un documentaire difficile et le lendemain un bon bouquin de fiction pour relâcher. Mieux: un moment en plein air, en famille. **Apprécier en pleine conscience** les bonheurs simples: voir grandir la complicité entre grands-parents et petits enfants, un bon pique-nique au bord d’un ruisseau entre amis, etc…
 
@@ -121,9 +121,9 @@ Les matins deviennent plus beaux, les couchers de soleil plus intenses. **Le tem
 
 Ouvrir les yeux sur les données réelles et les analyses documentées sur le changement climatique secoue. **Fort**. Et je le répète faute d’avoir été clair jusqu’ici: je pense sincèrement qu’ouvrir les yeux est bien meilleur pour notre bien-être et celui de nos enfants que de regarder ailleurs.
 
-Cependant, il est crucial que **chacun.e avance à son rythme**. Et c’est là **un point très délicat**. L’Homme est un être social, connecté aux autres et en premier lieu à sa famille. Comment concilier l’avancement intellectuel si personnel sur ce genre de sujet et la vie d’une famille avec ses individus aux caractères et âges si différents ? Pas facile. Le/la plus conscientisé.e devra y aller “tout doux” et laisser venir le sujet. Ce que j’ai compris c’est que finalement la répétition des événements climatiques exceptionnels, les annonces médiatiques brutales sur la dégringolade de la biodiversité, l’état des océans, etc… étaient bien plus persuasifs que de longues discussions familiales autour du repas du soir. 
+Cependant, il est crucial que **chacun.e avance à son rythme**. Et c’est là **un point très délicat**. L’Homme est un être social, connecté aux autres et en premier lieu à sa famille. Comment concilier l’avancement intellectuel si personnel sur ce genre de sujet et la vie d’une famille avec ses individus aux caractères et âges si différents ? Pas facile. Le/la plus conscientisé.e devra y aller “tout doux” et laisser venir le sujet. Ce que j’ai compris c’est que, finalement, la répétition des événements climatiques exceptionnels, les annonces médiatiques brutales sur la dégringolade de la biodiversité, l’état des océans, etc... étaient bien plus persuasifs que de longues discussions familiales autour du repas du soir. 
 
-Ce n'est pas facile tous les jours. Acheter ça, tenir sur ça... Etc... Pas facile... Quand on bouillonne intérieurement et qu'on a envie de crier.
+Ce n'est pas facile tous les jours. Acheter ça, tenir sur ça... Etc... Délicat et un peu casse-gueule quand on bouillonne intérieurement et qu'on a envie de crier.
 
 A chacun.e son rythme donc mais il me semble salutaire de prendre le sujet à bras le corps pour trouver un chemin de “transition” acceptable pour celles et ceux qui nous sont chers. (Article intéressant: [Psychologie et Climat](https://bonpote.com/psychologie-et-climat-1-2-deni-colere-les-5-etapes-du-deuil/))
 
@@ -138,8 +138,9 @@ A toutes celles et ceux qui sont perdus devant la catastrophe à venir, voici mo
 Voici mes étapes:
 
 - Tout d’abord, se documenter un minimum sur ce qui est en train de se passer sur le plan du climat mondial et de la biodiversité (6ème extinction de masse en cours). Attention à bien recouper les sources et à suivre de vrais scientifiques ou vulgarisateurs crédibles. Je vous conseille [BonPote](https://bonpote.com/) ([ici](https://www.facebook.com/bonpoteofficiel) son facebook).
-- Des conséquences présentées par les scientifiques, établir “une hiérarchie des préférences”… et établir “une vision”. J’expliquerai ces notions ci-après.
+- A partir des conséquences présentées par les scientifiques, établir “une hiérarchie des préférences” et établir “une vision”. J’expliquerai ces notions ci-après.
 - Se mettre en action. La conséquence de la mise en action étant, rapidement, l’apaisement intérieur.
+- Ouf !
 
 ### La “hiérarchie des préférences” et la “vision”
 
@@ -147,7 +148,7 @@ Je passe mon tour sur le point n°1 (se documenter). Vous l’aurez compris, ce 
 
 Une fois que vous aurez digéré les informations, vous allez commencer à analyser votre situation personnelle, celle de votre entourage, de la commune dans laquelle vous vivez. La suite naturelle de ce petit bouillon de cervelle vous conduira à **analyser les fragilités** de ces différents cercles sociaux.
 
-Selon votre tempérament, vos craintes intimes, votre histoire personnelle, vous élaborerez à partir de ces fragilités une liste des priorités. Les choses à faire, absolument. Tout de suite, sans attendre. D’autres, moins critiques, etc… Je ne me souviens plus de qui elle vient mais j’aime beaucoup cette expression: **La “hiérarchie des préférences”**. Notion très personnelle au départ. Ensuite, il s’agit de la partager, sans heurt, avec nos êtres chers. **Construire de manière très positive un avenir désirable commun avec une feuille de route claire listant les choses à faire.**
+Selon votre tempérament, vos craintes intimes, votre histoire personnelle, vous élaborerez à partir de ces fragilités une liste des priorités. Les choses à faire, absolument. Tout de suite, sans attendre. D’autres, moins critiques, etc... Je ne me souviens plus de qui elle vient mais j’aime beaucoup cette expression: **La “hiérarchie des préférences”**. Notion très personnelle au départ. Ensuite, il s’agit de la partager, sans heurt, avec nos êtres chers. **Construire de manière très positive un avenir désirable commun avec une feuille de route claire listant les choses à faire.**
 
 Et là, vous vous dites: *“Non mais je vais pas imprimer ma liste de choses à faire et la consulter tous les matins, scotchée sur le frigo !!!”*. Et vous aurez raison car ce qui va émerger assez vite c’est la **“vision”**. Au fond, vos idées, vos priorités auront très certainement une logique, un socle commun. A force de penser votre projet et d’en discuter, vous affinerez et finirez par trouver **une phrase, quelques mots précis qui décriront avec force votre chemin**. Ce que vous voulez faire ou atteindre.
 
@@ -173,6 +174,22 @@ Le problème connexe est évidemment l’**approvisionnement en eau** et les ép
 
 Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte pour la biodiversité** (les deux sujets alimentation-biodiversité sont d’ailleurs très liés, et plus généralement, tous les sujets sont interconnectés). Je suis très touché par ce que nous, êtres humains, infligeons aux autres humains mais aussi aux autres espèces (flore et faune). Aussi, je compte modestement contribuer à créer un *"point d'accuponture pour la Nature"* comme le dit si joliment Charles Hervé-Gruyer de la ferme du [Bec Hellouin](https://www.fermedubec.com/) (dont je conseille vivement les trois volumes de ["Vivre avec la Terre"](https://www.fermedubec.com/blog/vivre-avec-la-terre/)).
 
+Je me prépare donc. Que dis-je, nous nous préparons !
+
+Ma vision ? La voilà:
+
+<p class="quote">
+Je rêve d'un lieu préservé, recentré sur la nature et sa biodiversité. Un endroit où cohabiteront l'agriculture paysanne, la culture et l'identité d'ici. Un bout de terre fait de convivialité, de rêve et de musique où ma famille partagera avec bonheur le boire et le manger avec les amis et ceux qui seront en difficulté.
+</p>
+
+C'est ainsi que j'aimerais vivre heureux. Y arriverais-je ? Aucune idée. Mais chaque pas sur ce chemin m'apaise. 
+
+Un dessin plus que mille mots (réalisé en concertation avec mes enfants):
+
+<div class="flex justify-center">
+  <img class="max-w-2xl post-img" src="/static/img/saunei-bauchon-darrer.jpeg">
+</div>
+
 ### Des propositions
 
 Ce qui suit va vous sembler "radical". Ce sont des convictions très personnelles... mais ce blog étant perso... je me permets donc !
@@ -191,25 +208,13 @@ J’aimerais juste conclure par un échange avec mon ami Diego qui m’est très
 Je ne me sens pas prêt <br>
 J’ai peur <br>
 Surtout si je n’ai pas une solution en face <br>
-J’ai peur de trop paniquer et prendre de décisions précipitées… <br>
+J’ai peur de trop paniquer et prendre des décisions précipitées… <br>
 <br>
-La seule chose que je peux te garantir: plus tu te documentes et tu prends le pb à bras le corps, plus tes nuits sont calmes et apaisées car tu sais.<br>
+La seule chose que je peux te garantir: plus tu te documentes et tu prends le problème à bras le corps, plus tes nuits sont calmes et apaisées car tu sais.<br>
 Tu sais où tu dois aller.<br>
 Tu construis un nouvel avenir.<br>
 Et tu arrêtes de paniquer à chaque mauvaise nouvelle.<br>
 Tu sais et tu fais.<br>
 </p>
 
-Ah... dernier truc... **Attention: jamais nous ne serons préparés à un effondrement. Seuls ceux qui en ont vécu un savent. **
-
-**Prenez soin de vous, préparez-vous, préparons-nous ensemble et construisons localement ce que nous souhaitons universel.**
-
-
-
-
-
-Concrètement ? A Lasseube (nous avons la chance d’avoir déjà sur place: élevage, céréales et vignes), des bois, une variété de cultures légumières, d’arbres fruitiers, etc… pour assurer l’alimentation. Un paysan boulanger, Une maison de santé, Un groupe de Transition, etc…
-
-
-⚠️ réduire volontairement la voilure pour les plus riches (refus de parvenir, dignité du présent)
-
+**Prenez soin de vous, préparez-vous, préparons-nous ensemble et construisons ici et maintenant.**
