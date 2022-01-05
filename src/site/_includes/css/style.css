@@ -63,7 +63,7 @@
   }
 
   .post-img {
-    @apply rounded-lg my-1;
+    @apply rounded-lg my-2;
   }
 
   .post-date {
