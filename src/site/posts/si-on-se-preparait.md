@@ -41,11 +41,9 @@ Du concret donc pour **apprendre** :
 
 - L’exposé de Valérie Masson-Delmotte (à la Convention Citoyenne Pour le Climat) qui a mis littéralement une claque à tou.te.s les participant.e.s (je vous ai calé la vidéo sur le début de son intervention) : [ici](https://www.youtube.com/watch?v=oSPb5o7oZIU&t=13m30s)
 
-- lien vers conf Janco
+- ❤️ Un très gros coup de coeur (Merci Rachel, ma jolie mère Noël): la BD ["Le Monde Sans Fin"](https://www.librairiesindependantes.com/product/9782205088168/) de Christophe Blain, Jean-Marc Jancovici chez Dargaud.
 
 - Les cours de Jean-Marc Jancovici, un des plus grands experts français sur le changement climatique: [ici](https://slides.pimoid.fr/jancovici/mines_2019/). Laissez-vous embarquer par le cours n°1 sur l’énergie… absolument limpide.
-
-- Et une vidéo passionnante sur Sergey Zimov et sa famille, scientifique russe basé en Sibérie, qui a formulé une hypothèse crédible pour lutter contre la fonte du permafrost: [ici](https://www.youtube.com/watch?v=6GW0QP-chFk)
 
 *Remarque en passant: il est assez frappant qu’une majorité de celles et ceux avec qui je parle et qui ne se laissent pas embarquer dans la croyance en une “croissance verte” sont souvent de formation scientifique. Au contact de la science au quotidien, elles/ils savent pertinemment que les avancées et découvertes ne seront pas au rendez-vous à temps cette fois-ci.*
 
@@ -109,6 +107,8 @@ Apprendre à collaborer, à partager, **changer** ses habitudes, apprendre de no
 
 Je pense sincèrement qu’**absorber l’impact psychologique de ces nouvelles angoissantes de façon volontaire et documentée est salutaire**. Toujours la même philosophie du *“petit à petit”* plutôt que *“tout d’un seul coup”*. On s’habitue alors à ces mauvaises nouvelles car on sait, on a appris. Comme avec une maladie incurable, on apprend à vivre avec et au bout d’un moment, on cohabite. L’impact psychologique est non négligeable: **le temps est alors un allié précieux** mais ne peut faire entièrement son travail d’apaisement que si la prise de conscience est précoce.
 
+Lorsqu'on parle des limites terrestres que l'humanité dépasse allègrement depuis des décennies, on voit émerger des [exponentielles](https://fr.wikipedia.org/wiki/Fonction_exponentielle) dont la compréhension n'est pas naturelle chez l'homme qui préfère le [linéaire](https://fr.wikipedia.org/wiki/Fonction_lin%C3%A9aire_(analyse)). Il y a ainsi l'exponentielle de l'effondrement de la biodiversité, de la pollution, etc... Je pense qu'il existe aussi l'**exponentielle de prise de conscience** du changement climatique inéluctable. La quantité de personnes conscientes progresse lentement au début, puis tout s'accélère. Je redoute et j'espère à la fois le moment où une partie significative de la population aura compris. Je redoute car ça pourrait précipiter un crash psychologique planétaire ou tout le monde courrait "comme des rats empoisonnés", un peu comme dans le film [Don't Look Up - Déni cosmique](https://fr.wikipedia.org/wiki/Don%27t_Look_Up_:_D%C3%A9ni_cosmique) (belle allégorie que je conseille vivement). Mais cette exponentielle me donne aussi beaucoup d'espoir: si elle est assez rapide, si la population prend conscience en masse rapidement, l'Humanité pourrait prendre le plus grand (et serré) virage de toute l'Histoire en bâtissant une société durable basée sur la sobriété (et en dégageant donc le capitalisme et sa société de consommation, on est bien d'accord)
+
 ### Du temps… pour la pleine conscience
 
 Faire face aux annonces à venir, les yeux grand ouverts est pour moi fondamental ; le danger étant de sombrer psychologiquement et c’est peut-être ce que redoutent les personnes qui détournent le regard. Une des solutions *“adoucissantes”* pour vivre avec, est d’organiser son apprentissage. Bien se connaître et programmer des temps de pause émotionnelle qui viennent apaiser, faire lâcher prise. Car le sujet est prenant et difficile.
@@ -123,7 +123,9 @@ Ouvrir les yeux sur les données réelles et les analyses documentées sur le ch
 
 Cependant, il est crucial que **chacun.e avance à son rythme**. Et c’est là **un point très délicat**. L’Homme est un être social, connecté aux autres et en premier lieu à sa famille. Comment concilier l’avancement intellectuel si personnel sur ce genre de sujet et la vie d’une famille avec ses individus aux caractères et âges si différents ? Pas facile. Le/la plus conscientisé.e devra y aller “tout doux” et laisser venir le sujet. Ce que j’ai compris c’est que finalement la répétition des événements climatiques exceptionnels, les annonces médiatiques brutales sur la dégringolade de la biodiversité, l’état des océans, etc… étaient bien plus persuasifs que de longues discussions familiales autour du repas du soir. 
 
- A chacun.e son rythme donc mais il me semble salutaire de prendre le sujet à bras le corps pour trouver un chemin de “transition” acceptable pour celles et ceux qui nous sont chers.
+Ce n'est pas facile tous les jours. Acheter ça, tenir sur ça... Etc... Pas facile... Quand on bouillonne intérieurement et qu'on a envie de crier.
+
+A chacun.e son rythme donc mais il me semble salutaire de prendre le sujet à bras le corps pour trouver un chemin de “transition” acceptable pour celles et ceux qui nous sont chers. (Article intéressant: [Psychologie et Climat](https://bonpote.com/psychologie-et-climat-1-2-deni-colere-les-5-etapes-du-deuil/))
 
 ## Se préparer
 
@@ -157,27 +159,34 @@ Je connais mon idéal désormais. Et j’ai construit un chemin pour l’atteind
 
 J’ai une chance de dingo. Je vis dans un fabuleux village au pied des Pyrénées et je considère que c’est l’endroit qui me convient le mieux pour affronter ce qui arrive et construire mon avenir désirable.
 
-Parmi tous les risques à venir, celui qui me secoue le plus profondément, intimement, c’est celui de l’alimentation. Je suis persuadé, qu’à court terme -  oui, j’ai bien dit à **court** terme - l’Europe connaitra des problèmes d’approvisionnements alimentaires sérieux. Aussi, tout naturellement, je me mets en action pour produire des cultures vivrières. 
+Parmi tous les risques à venir, celui qui me secoue le plus profondément, intimement, c’est celui de **l’alimentation**. Je suis persuadé, qu’à court terme -  oui, j’ai bien dit à **court** terme - l’Europe connaitra des problèmes d’approvisionnements alimentaires sérieux. Aussi, tout naturellement, je me mets en action pour produire des cultures vivrières.
 
-Le problème connexe est évidemment l’approvisionnement en eau et les épisodes de sécheresse désormais annuels qui s’intensifieront. La récupération d’eau de pluie me paraît donc tout aussi importante.
+Deux petits liens sympas:
+- [CRATER](https://crater.resiliencealimentaire.org/) - outil en ligne pour savoir où en est votre territoire
+- [Vers la résilience alimentaire](https://resiliencealimentaire.org/) - j'ai le petit bouquin, je le prête à qui veut ;)
 
-Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte pour la biodiversité **(les deux sujets alimentation-biodiversité sont d’ailleurs très liés, et plus généralement, tous les sujets sont interconnectés). Je suis très touché par ce que nous, êtres humains, infligeons aux autres humains mais aussi aux autres espèces (flore et faune). Aussi, je compte modestement contribuer à créer un *"point d'accuponture pour la Nature"* comme le dit si joliment Charles Hervé-Gruyer de la ferme du [Bec Hellouin](https://www.fermedubec.com/) (dont je conseille vivement les trois volumes de ["Vivre avec la Terre"](https://www.fermedubec.com/blog/vivre-avec-la-terre/)).
+<div class="flex justify-center">
+  <img class="max-w-xl post-img" src="/static/img/paillage.jpg">
+</div>
 
+Le problème connexe est évidemment l’**approvisionnement en eau** et les épisodes de sécheresse désormais annuels qui s’intensifieront. La récupération d’eau de pluie me paraît donc tout aussi importante.
 
+Tout de suite après ces deux sujets primordiaux pour moi, vient la **crainte pour la biodiversité** (les deux sujets alimentation-biodiversité sont d’ailleurs très liés, et plus généralement, tous les sujets sont interconnectés). Je suis très touché par ce que nous, êtres humains, infligeons aux autres humains mais aussi aux autres espèces (flore et faune). Aussi, je compte modestement contribuer à créer un *"point d'accuponture pour la Nature"* comme le dit si joliment Charles Hervé-Gruyer de la ferme du [Bec Hellouin](https://www.fermedubec.com/) (dont je conseille vivement les trois volumes de ["Vivre avec la Terre"](https://www.fermedubec.com/blog/vivre-avec-la-terre/)).
 
 ### Des propositions
 
+Ce qui suit va vous sembler "radical". Ce sont des convictions très personnelles... mais ce blog étant perso... je me permets donc !
 
+- Vous vivez dans une **grande ville** ? ... un seul mot me vient: **fuyez !**. Sérieusement, ce type de structure est trop fragile et les échéances sont dures pour transformer ces espaces bétonnés ultra dépendants du pétrole. Je considère déjà ces lieux hostiles alors lorsque les premières secousses arriveront, ce sera rapidement l'enfer.
 
-Vous vivez dans une **grande ville** ? … un seul mot me vient: **fuyez**. Sérieusement, ce type de structure est trop fragile et les échéances sont dures pour transformer ces espaces bétonnés ultra dépendants du pétrole. Je considère déjà ces lieux trop hostiles.
+- Vous vivez dans une **petite ville** ? Là c'est déjà mieux. Travailler les relations entre voisins bien entendu. Et pourquoi pas, aller aider un maraîcher ? Créez votre réseau dans tous les domaines, clairement indépendant des circuits traditionnels (grande distribution) et les plus [low-tech](https://lowtechlab.org) possibles.
 
-Vous vivez dans une **petite ville**? *TODO*
-
-
+- Vous vivez à la campagne ? Produisez ! Pas de jardin ? Allez aider ceux qui ont des terres, ils ont souvent besoins de bras. Consacrez du temps à améliorer la résilience de votre village.
 
 ## Conclusion
 
-J’aimerais juste conclure par un échange avec mon ami Diego qui m’est très cher:
+J’aimerais juste conclure par un échange avec mon ami Diego qui m’est très cher. D'origine aragonaise, il a décidé de revenir du côté "plus vert" des Pyrénées avec sa jolie petite famille (C'est donc le premier "déplacé climatique conscient" que je connais). Papa de deux enfants de 5 et 8 ans, il n'ose ouvrir totalement les yeux sur ce qui arrive.
+
 <p class="quote">
 Je ne me sens pas prêt <br>
 J’ai peur <br>
@@ -191,60 +200,16 @@ Et tu arrêtes de paniquer à chaque mauvaise nouvelle.<br>
 Tu sais et tu fais.<br>
 </p>
 
-Voilà où j’en suis les z’amics ! Prenez bien soin de vous et… Préparez-vous ! 😘
+Ah... dernier truc... **Attention: jamais nous ne serons préparés à un effondrement. Seuls ceux qui en ont vécu un savent. **
 
-dignité du présent, construire localement ce que l’on souhaite universel
+**Prenez soin de vous, préparez-vous, préparons-nous ensemble et construisons localement ce que nous souhaitons universel.**
 
-baouchou: transition douce, plutôt qu’attendre les fortes secousses brutales
 
-parler et écrire sur son future désirable
 
-!!!!!!!!!! video et lien sur l’exode urbain
 
-effondrement 2030 (ma conviction) pour les fans de prémonition foireuse.
-
-Pour le bien-être de la tête
 
 Concrètement ? A Lasseube (nous avons la chance d’avoir déjà sur place: élevage, céréales et vignes), des bois, une variété de cultures légumières, d’arbres fruitiers, etc… pour assurer l’alimentation. Un paysan boulanger, Une maison de santé, Un groupe de Transition, etc…
 
-Insérer lien CRATER: [https://crater.resiliencealimentaire.org/](https://crater.resiliencealimentaire.org/)
-
-Donner, mensuellement, une petite somme à un projet. Je consacre 20 euros / mois. Zimov, Partager C sympa, etc… Chacun selon ses priorités (pour moi c’est l’info au grand public et le CH4), chacun selon ses moyens mais en bons occidentaux, on peut bien sacrifier quelques euros non ?
-
-
-
-A travailler: la consommation de produit locaux (et oui on va au super U) avec totdecasa (ou autre: n’est-ce pas Audrey ? 😉)
-
-
-Me concernant: l’alimentation en premier lieu (photo bacs, patates) puis, plus large, en groupe, l’énergie sur Lasseube. Et en corollaire: proposer un îlot de répis pour les animaux, insectes et plantes. TISSER DU LIEN ! Car ce n’est que ça qui permettra la résilience. Et là c’est cool ! Parce que le lien, le vrai, le sincère, c’est le propre du petit et pas du puissant.
-[**Les Greniers d'Abondance - vers la résilience alimentaire !**
-*Les Greniers d'Abondance : Comprendre les vulnérabilités de notre système alimentaire actuel et étudier les voies de…*resiliencealimentaire.org](https://resiliencealimentaire.org/)
-
 
 ⚠️ réduire volontairement la voilure pour les plus riches (refus de parvenir, dignité du présent)
-
-=> crash psycho, exponentielle de prise de conscience
-Lien avec don't look UP
-
-Personne n'ecoute et quand l'exponentielle de prise de conscience décollera il sera trop tard
-
-
-
-Nécessité de raconter un nouveau monde pour contrer l’ancien qui va essayer de s’imposer à nouveau. **Alors racontez ! Quelle que soit votre plume**
-
-Cf. Collapsus a. Keller p94
-
-Liste des actions concrètes:
-
-* mode de déplacement
-
-* souscriptions (railcoop, enercoop, mediapart, reporterre, greenpeace etc…)
-
-* jardinage, permaculture, relations privilégiées avec mes parents
-
-* DCAD et LET
-
-Mentionner les cours de Janco… ?
-
-**Attention: jamais nous ne serons préparés à un effondrement. Seuls ceux qui en ont vécu un savent. **
 
