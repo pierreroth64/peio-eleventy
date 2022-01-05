@@ -1,6 +1,6 @@
 ---
 title: Et si on se préparait… ensemble !
-date: 2021-12-28
+date: 2022-01-05
 tags:
   - environnement
   - société
