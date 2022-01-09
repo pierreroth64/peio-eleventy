@@ -7,9 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-Salut, je m'appelle Peio.
-
-Je suis développeur logiciel et apprenti paysan 🌱
+Salut, je m'appelle Peio, développeur logiciel et apprenti paysan 🌱
 
  - ❤️ fan des pratiques d'e**X**treme **P**rogramming (cliquer [ici](https://agilequittersmanifesto.org/) si vous êtes certifié *SAFe*)
  - 🔨 travaille à la conception d'appareils médicaux chez [eove](http://eove.fr)
