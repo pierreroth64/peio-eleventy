@@ -65,7 +65,6 @@ Bon et si on laissait parler le patron ? 😄
 
 ## La suite ?
 
-
 Me concernant, tout se simplifie. Le compost c'est bien mais c'est compliqué à faire et en plus de flinguer le potentiel de germination des [adventices](https://fr.wikipedia.org/wiki/Adventice) (ce qu'on recherche), la chauffe tue tous les micro-organismes et minéralise tout... (et c'est ça pas top du tout). Le composte reset donc un bon booster pour les plantes mais ne participe pas à l'amélioration d'un sol dans la durée.
 
 Alors que finalement, il "suffit" de déposer au sol cette matière organique comme ce qui se passe en forêt pour que la magie opère. Bien entendu, il y a la [faim d'azote](https://fr.wikipedia.org/wiki/Faim_d%27azote) qui apparaît inévitablement (les micro-organismes ont besoin d'azote pour décomposer la MO) mais c'est temporaire comme l'explique François Mullet, précurseur du MSV (Maraîchage sur Sol Vivant) dont les vidéos sur [Ver de Terre Prod](https://www.verdeterreprod.fr/) sont souvent très enrichissantes.
@@ -73,7 +72,7 @@ Alors que finalement, il "suffit" de déposer au sol cette matière organique co
 François Mullet propose ci-dessous une vidéo très instructive sur l'**Écologie des vers de terre & reconstruction de la fertilité des sols**. Il y présente la solution d'apport massif d'intrants de matière organique. L'idéal étant d'apporter du ligneux genre [BRF](https://fr.wikipedia.org/wiki/Bois_ram%C3%A9al_fragment%C3%A9) ou broyat végétal qu'on trouve dans les plateformes de gestion des déchets verts.
 
 <div class="flex justify-center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NjeQU_yyDG4&t=12s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NjeQU_yyDG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 La clé de tout ça ? **Faire un apport massif de matière organique (MO) sur le sol** et particulièrement de la matière ligneuse pour monter le taux de MO et enclencher la remise en route de la vie du sol. Les vers de terre reviennent ainsi en masse (on peut faire un x10 sur une année s'ils ont de quoi manger !) et commencent leur travail incroyable. L'humus revient, permettant une minéralisation lente bénéfique aux plantes et retenant l'eau (qui à dit qu'on allait vers de graves sécheresse ?...). **L'idée est de reproduire le mécanisme naturel mais de l'amplifier avec cet apport massif afin d'accélérer la création de sol fertile**
