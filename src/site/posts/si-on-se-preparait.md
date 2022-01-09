@@ -217,4 +217,4 @@ Et tu arrêtes de paniquer à chaque mauvaise nouvelle.<br>
 Tu sais et tu fais.<br>
 </p>
 
-**Prenez soin de vous, préparez-vous, préparons-nous ensemble et construisons ici et maintenant.**
+**Prenez soin de vous, préparez-vous, préparons-nous ensemble.**
