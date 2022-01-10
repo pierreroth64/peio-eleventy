@@ -1,5 +1,5 @@
 ---
-title: Je me lance... dans le web! ;)
+title: Je me lance... dans le web!
 date: 2015-12-17
 tags:
   - code
