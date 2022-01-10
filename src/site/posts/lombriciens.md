@@ -99,7 +99,7 @@ Avec au final:
  - 10 cm de paille
 
  La couche de paille réalisant 2 fonctions:
- - coupe la lumière pour éviter que ne poussent de adventices qui pourraient traverser le broyat
+ - coupe la lumière pour éviter que ne poussent des adventices qui pourraient traverser le broyat
  - amende aussi le sol puisque contenant de la cellulose
 
 ⚠️ les amendements ne doivent **PAS** être enfouis ! Le processus de décomposition est aérobie donc tout doit rester en surface... comme en forêt. Idéalement, ce couvert végétal doit être installé à l'automne. L'activité biologique montera en flèche aux premières douceurs du printemps.
