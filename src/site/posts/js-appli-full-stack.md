@@ -1,5 +1,5 @@
 ---
-title: Application fullstack (React & Node.js)
+title: Application fullstack
 date: 2016-12-23
 tags:
   - code
