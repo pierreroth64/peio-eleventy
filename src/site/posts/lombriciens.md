@@ -65,7 +65,7 @@ Bon et si on laissait parler le patron ? 😄
 
 ## La suite ?
 
-Me concernant, tout se simplifie. Le compost c'est bien mais c'est compliqué à faire et en plus de flinguer le potentiel de germination des [adventices](https://fr.wikipedia.org/wiki/Adventice) (ce qu'on recherche), la chauffe tue tous les micro-organismes et minéralise tout... (et c'est ça pas top du tout). Le composte reset donc un bon booster pour les plantes mais ne participe pas à l'amélioration d'un sol dans la durée.
+Me concernant, tout se simplifie. Le compost c'est bien mais c'est compliqué à faire et en plus de flinguer le potentiel de germination des [adventices](https://fr.wikipedia.org/wiki/Adventice) (ce qu'on recherche), la chauffe tue tous les micro-organismes et minéralise tout... (et c'est ça pas top du tout). Le compost reste donc un bon booster pour les plantes mais ne participe pas à l'amélioration d'un sol dans la durée.
 
 Alors que finalement, il "suffit" de déposer au sol cette matière organique comme ce qui se passe en forêt pour que la magie opère. Bien entendu, il y a la [faim d'azote](https://fr.wikipedia.org/wiki/Faim_d%27azote) qui apparaît inévitablement (les micro-organismes ont besoin d'azote pour décomposer la MO) mais c'est temporaire comme l'explique François Mullet, précurseur du MSV (Maraîchage sur Sol Vivant) dont les vidéos sur [Ver de Terre Prod](https://www.verdeterreprod.fr/) sont souvent très enrichissantes.
 
