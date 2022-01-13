@@ -51,7 +51,7 @@ Je suis partagé sur les causes: est-il si arrogant qu'il ne s'intéresse que de
 Seule certitude: il sait le chaos à venir.
 Mais il sait aussi qu'il est *"du bon côté"*, du côté de ceux qui dominent le monde et auront toujours les ressources pour le confort et les plaisirs même dans un environnement dévasté.
 
-Le Pen ou mister Z ? Un cauchemard.
+Le Pen ou mister Z ? Un cauchemar.
 Ils s'acharneront sur de pauvres migrants, de plus en plus nombreux, fuyant le chaos climatique. Ils engloutiront tout espoir pour les jeunes générations. L'éventualité de leur élection me donne la nausée. Nous serons nombreux alors je l'espère à rentrer en résistance.
 
 Les Républicains ? Ah la Valérie... à part nous dire de faire "pipi sous la douche" et faire croire que la science va nous sauver en quelques années de ce mauvais pas, je considère la droite française totalement déconnectée du sujet climatique et des enjeux à venir. Au delà des valeurs que je ne partage pas, aucune vision, rien d'inspirant. Lamentable.
