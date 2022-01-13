@@ -115,7 +115,7 @@ Je n'aimerais pas être à leur place quand la classe moyenne commencera (c'est 
 Ce mandat est donc vital car dans les 5 années qui viennent les conséquences du dérèglement climatique impacteront tout le monde, y compris ceux - comme nous - qui ne s'y attendent pas ou n'y sont pas préparés.
 Sur fond de crise financière mondiale imminente, de pandémies à répétition et de problèmes d'approvisionnement en énergie (cf. vos factures de gaz et bientôt d'élec), je souhaite à tous ces égos bien du courage.
 
-A moins que l'imminence de la catastrophe qui démarre ne fasse surgir ce **"refus de parvenir, cette volonté de ne pas nuire et cette dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'histoire de notre pays..
+A moins que l'imminence de la catastrophe qui démarre ne fasse surgir ce **"refus de parvenir, cette volonté de ne pas nuire et cette dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'histoire de notre pays.
 
 Vous l'aurez compris. Ce sera donc mon **dernier vote.**
 Pour un candidat désigné par la [primaire populaire](https://primairepopulaire.fr/).
@@ -125,8 +125,4 @@ Sinon ?
 <div class="flex justify-center">
   <a class="no-decoration" href="https://primairepopulaire.fr/"><img class="max-w-lg post-img" src="/static/img/primaire-pop.png"></a>
 </div>
-
-
-
-
 
