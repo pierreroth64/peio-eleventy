@@ -118,7 +118,7 @@ Sur fond de crise financière mondiale imminente, de pandémies à répétition 
 A moins que l'imminence de la catastrophe qui démarre ne fasse surgir ce **"refus de parvenir, cette volonté de ne pas nuire et cette dignité du présent"** et que l'union se fasse pour une transformation jamais vue dans l'histoire de notre pays.
 
 Vous l'aurez compris. Ce sera donc mon **dernier vote.**
-Pour un candidat désigné par la [primaire populaire](https://primairepopulaire.fr/) désigné par sur un seul tour au [Jugement majoritaire](https://primairepopulaire.fr/jugement-majoritaire/).
+Pour un candidat désigné par la [primaire populaire](https://primairepopulaire.fr/) désigné sur un seul tour au [Jugement majoritaire](https://primairepopulaire.fr/jugement-majoritaire/).
 Sinon ? 
 **Qu'ils aillent tous se faire cuire le cul.**
 
