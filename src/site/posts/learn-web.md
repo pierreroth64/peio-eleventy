@@ -14,4 +14,4 @@ Ma décision: m'y mettre car les front devs ont arrêté de bidouiller ! Y'a des
 
 C'est donc décidé, acté, je mets le paquet sur le sujet. A priori, ça me servira pour le backend aussi puisque Node.js est là. Pas d'inquiétude cependant, Python reste l'amour de ma vie... à moins que Coffee Script ne vienne vraiment perturber cette relation stable... ;)
 
-Avis aux furieux du front, il se pourrait que vous rencontriez sur les confs un gentil-softeux avec une couleur embarquée. **Ne lui faites pas peur, il apprend... toujours et encore! :) **
+Avis aux furieux du front, il se pourrait que vous rencontriez sur les confs un gentil-softeux avec une couleur embarquée. **Ne lui faites pas peur, il apprend... :)**
