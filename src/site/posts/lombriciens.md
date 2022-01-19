@@ -116,7 +116,7 @@ Petit clin d'oeil pour mon *Papa* 😘, lui aussi instituteur, qui avait instaur
 
 ## Conclusion 
 
-Alors nos **amis**, les vers de terre ? ...je dirais plutôt qu'il pourraient être, avec les arbres, nos **sauveurs**.
+Alors nos **amis**, les vers de terre ? ...je dirais plutôt qu'ils pourraient être, avec les arbres, nos **sauveurs**.
 
 <div class="flex justify-center">
   <a href="https://www.librairiesindependantes.com/product/9782330028893/"><img class="max-w-sm post-img" src="/static/img/livre-vers-de-terre.jpg"></a>
