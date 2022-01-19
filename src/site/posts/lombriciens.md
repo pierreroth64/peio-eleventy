@@ -55,7 +55,7 @@ J'ai finalement compris l'état des connaissances sur le cycle de l'azote, compo
  - la formation de l'humus permet une minéralisation lente et donc une diffusion des minéraux totalement adaptée aux plantes
  - ce taux de MO ([Matière Organique](https://fr.wikipedia.org/wiki/Mati%C3%A8re_organique)) élevé permet de stocker l'eau et donc de résister aux sécheresses...
  
-La conclusion de tout ce cycle (simplifié) ? C'est que la culture sur sol vivant permet de s'affranchir de l'apport d'engrais. Considérer le sol comme une entité complexe (et pas seulement un support pour y injecter du [N](https://fr.wikipedia.org/wiki/Azote), [P](https://fr.wikipedia.org/wiki/Phosphore), [K](https://fr.wikipedia.org/wiki/Potassium)), permet de diffuser lentement une quantité de minéraux très importante mais de façon progressive et donc assimilable intégralement par les plantes. C'est bien fait hein ? Moi ça me laisse sur le c... Et ce mécanisme n'a aucun impact sur les nappes phréatiques. Scotché le Peio.
+La conclusion de tout ce cycle (simplifié) ? C'est que la culture sur sol vivant permet de s'affranchir de l'apport d'engrais. Considérer le sol comme une entité complexe (et pas seulement un support pour y injecter du [N](https://fr.wikipedia.org/wiki/Azote), [P](https://fr.wikipedia.org/wiki/Phosphore), [K](https://fr.wikipedia.org/wiki/Potassium)), permet de diffuser lentement une quantité de minéraux très importante mais de façon progressive et donc assimilable intégralement par les plantes. C'est bien fait hein ? Et ce mécanisme n'a aucun impact sur les nappes phréatiques. Scotché le Peio.
 
 Bon et si on laissait parler le patron ? 😄
 
