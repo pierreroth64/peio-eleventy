@@ -73,7 +73,7 @@ En défilant, je refuse donc de valider le concept du chacun pour soi. Je parie 
 
 Je manifeste donc parce que je considère que ce n’est pas dans ce sens que l’on doit aller mais à l’opposé total ! Mutualiser, partager pour être plus forts, résilients, ensemble.
 
-“Une autre fin du monde est possible. Vivre l’effondrement, et pas seulement y survivre”, voilà un bouquin qui m’éclaire. Nous devons travailler notre sens de la collaboration, du partage devant le péril qui menace. Cette réforme des retraites est un pas de géant… dans le mauvais sens ! Manifester contre, c’est justement travailler notre sens du “ensemble”.
+[“Une autre fin du monde est possible. Vivre l’effondrement, et pas seulement y survivre”](https://www.librairiesindependantes.com/product/9782021332582/), voilà un bouquin qui m’éclaire. Nous devons travailler notre sens de la collaboration, du partage devant le péril qui menace. Cette réforme des retraites est un pas de géant… dans le mauvais sens ! Manifester contre, c’est justement travailler notre sens du “ensemble”.
 
 ## Et vous ?
 
