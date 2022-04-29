@@ -14,7 +14,7 @@ Ce post n'aurait jamais dû sortir car depuis 2017, je travaille dans une chouet
 
 ⚠️ Petit coup de sang sur *"l'agilité"*. 
 
-#FallaitQueCaSorte
+`#FallaitQueCaSorte`
 
 ## "Agilité": le mot (désormais) interdit
 
