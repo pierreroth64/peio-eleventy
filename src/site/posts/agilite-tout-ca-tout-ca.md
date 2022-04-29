@@ -42,7 +42,7 @@ Pour ce qui est de *"l'agilité à l'échelle"*, idem: je ne suis pas contre a p
 
 Voilà. Plus rien à ajouter.
 
-Je vous mets juste 2 sketchotes que j'avais réalisées sur le processus itératif. Tous les sketchnotes sont libres de droit bien évidemment.
+Je vous mets juste quelques sketchotes que j'avais réalisées sur le processus itératif. 
 
 <div class="flex justify-center">
   <img class="max-w-xl post-img" src="/static/img/processus-iteratif-1-2.png">
@@ -51,3 +51,11 @@ Je vous mets juste 2 sketchotes que j'avais réalisées sur le processus itérat
 <div class="flex justify-center">
   <img class="max-w-xl post-img" src="/static/img/processus-iteratif-2-2.png">
 </div>
+
+Le flouté ci-dessous, c'est pour un minimum de confidentialité pro. Vous pouvez remplacer par ce qui vous chante.
+
+<div class="flex justify-center">
+  <img class="max-w-xl post-img" src="/static/img/chemin-iterations.png">
+</div>
+
+📣 Tous les sketchnotes sont libres de droit bien évidemment.
