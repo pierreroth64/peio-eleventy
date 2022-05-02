@@ -2,9 +2,9 @@
   "title": "peio.dev",
   "url": "https://peio.dev/",
   "language": "en",
-  "description": "Crafting software @eove in front of the Pyrenees. #XP #TDD #DDD",
+  "description": "Crafting software @eove in front of the Pyrenees. #DDD #XP",
   "feed": {
-    "subtitle": "Crafting software @eove in front of the Pyrenees. #XP #TDD #DDD",
+    "subtitle": "Crafting software @eove in front of the Pyrenees. #DDD #XP",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://peio.dev"
