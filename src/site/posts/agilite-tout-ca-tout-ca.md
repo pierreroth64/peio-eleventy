@@ -38,7 +38,7 @@ Entendons-nous bien: je suis un **convaincu des méthodes itératives**. Celui m
 
 ## La culture
 
-Pour ce qui est de *"l'agilité à l'échelle"*, idem: je ne suis pas contre a priori. Des boîtes comme [Valve Software](https://www.valvesoftware.com/) ont prouvé que ça fonctionnait. Leur ["guide pour les nouvelles recrues"](https://www.valvesoftware.com/en/publications) en dit long sur leur culture. Car il s'agit bien de *culture du code* **centrée sur le métier** ([DDD](https://en.wikipedia.org/wiki/Domain-driven_design)) et **l'expertise technique** mise en musique par **les pratiques** d'[Extreme Programming](https://fr.wikipedia.org/wiki/Extreme_programming) qui est au coeur de l'agilité d'une équipe et, beaucoup plus important, qui garantit la qualité des logiciels produits.
+Pour ce qui est de *"l'agilité à l'échelle"*, idem: je ne suis pas contre a priori. Des boîtes comme [Valve Software](https://www.valvesoftware.com/) ont prouvé que ça fonctionnait. Leur ["guide pour les nouvelles recrues"](https://www.valvesoftware.com/en/publications) en dit long sur leur culture. Car il s'agit bien de *culture du code* **centrée sur le métier** ([DDD](https://en.wikipedia.org/wiki/Domain-driven_design)) et **l'expertise technique** mise en musique par **les pratiques** d'[Extreme Programming](https://fr.wikipedia.org/wiki/Extreme_programming) qui est au coeur de l'agilité d'une équipe et qui garantit la qualité des logiciels produits.
 
 Voilà. Plus rien à ajouter.
 
