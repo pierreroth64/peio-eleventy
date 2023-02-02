@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-## Un (re)-rencontre
+## Une (re)-rencontre
 
 Je le connaissais déjà de vue ce petit "chenapan" 😉... lorsqu'il jouait au basket dans le même club que moi (🏀 AL Artix) mais en plus jeune. Il n'y a pas si longtemps, nos routes se sont recroisées et nous avons échangé sur _"comment produire un logiciel maintenable"_ lorsqu'il était dirigeant d'une entreprise dans l'[IA](https://fr.wikipedia.org/wiki/Intelligence_artificielle). Un jour, [Sébastien](https://www.linkedin.com/in/s%C3%A9bastien-loustau-b57b4555/) m'a proposé de manger un (désormais traditionnel) sandwich... et nous avons parlé agriculture 🌱...
 
@@ -30,7 +30,7 @@ La création du meetup [Degrowth Hacking Pau](https://www.meetup.com/degrowth-ha
 
 ## Les sols
 
-Pour ce second rendez-vous de notre meetup, Sébastien me propose de parler d'un sujet qui me passionne: l'agriculture. Après m'être assis sur mon [syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l%27imposteur), je me décide donc à travailler à une petite présentation intitulée: **"Et si on parlait des sols"**
+Pour ce second rendez-vous de notre meetup, Sébastien me propose de parler du sujet qui nous passionne: l'agriculture, évidemment. Après m'être assis sur mon [syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l%27imposteur), je me décide donc à travailler à une petite présentation intitulée: **"Et si on parlait des sols"**
 
 Donnée pour la première fois à l'épicerie [Aquiu](https://aquiu.fr/) (merci à eux 🙏), vous la trouverez:
 - en ligne ici: ["Et si on parlait des sol ?"](https://presentation-sols.netlify.app)
