@@ -30,7 +30,7 @@ La création du meetup [Degrowth Hacking Pau](https://www.meetup.com/degrowth-ha
 
 ## Les sols
 
-Pour ce second rendez-vous de notre meetup, Sébastien me propose de parler du sujet qui nous passionne: l'agriculture, évidemment. Après m'être assis sur mon [syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l%27imposteur), je me décide donc à travailler à une petite présentation intitulée: **"Et si on parlait des sols"**
+Pour ce second rendez-vous de notre meetup, Sébastien me propose de parler du sujet qui nous passionne: l'agriculture, évidemment. Après m'être assis sur mon [syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l%27imposteur), je me décide donc à travailler une petite présentation intitulée: **"Et si on parlait des sols"**
 
 Donnée pour la première fois à l'épicerie [Aquiu](https://aquiu.fr/) (merci à eux 🙏), vous la trouverez:
 - en ligne ici: ["Et si on parlait des sol ?"](https://presentation-sols.netlify.app)
