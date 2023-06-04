@@ -131,7 +131,7 @@ De courtes nuits à réfléchir. **Puis petit à petit, vous passerez à l’act
 
 ## La résilience — “vivre avec”
 
-Une fois qu’on a accepté cette idée que rien ne sera comme avant, (Tout ceci n’est qu’une probabilité mais vous avez une intuition, suivez-là !), il faut vivre avez.
+Une fois qu’on a accepté cette idée que rien ne sera comme avant, (Tout ceci n’est qu’une probabilité mais vous avez une intuition, suivez-là !), il faut vivre avec.
 
 On m’a annoncé à mon adolescence que j’étais atteint d’un [kératocône](https://fr.wikipedia.org/wiki/K%C3%A9ratoc%C3%B4ne) bilatéral (maladie dégénérative des yeux). A 14 ans, ça calme. Un parcours incroyable, accompagné par mes parents, a commencé. Déni, colère, etc… J’ai souffert et depuis, je subis **tous les jours** de ma vie cette maladie. Quand le ciel est trop lumineux, je peux trébucher dans la rue. Au moment de lire un livre à mes enfants le soir, en fin de journée devant mon écran au boulot, à la lecture d’une carte affichée au mur au resto, à la lecture des panneaux dans le métro, le bus, la lecture d’une proposition de recette sur le paquet de riz pour le repas de ce soir, etc…
 
