@@ -33,6 +33,6 @@ Cette vidéo est absolument fabuleuse 😍 sur la fertilité du sol: ["Contre-pl
 
 Et pour quelques exemples chez nous: ["Systèmes de culture sous couverture végétale dans le sud de la France"](https://www.youtube.com/watch?v=Jbd93AslSQM&ab_channel=VerdeTerreProduction) 
 
-J'ai posté cet [article sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7073934256426606592/). J'ai étonné par le nombre de réactions et de vues...
+J'ai posté cet [article sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7073934256426606592/). J'ai été étonné par le nombre de réactions et de vues...
 
 _(*) phénomènes qui deviendront de plus en plus violents avec le réchauffement climatique._
