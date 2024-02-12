@@ -5,6 +5,7 @@ tags:
   - décroissance
   - environnement
   - maraîchage
+  - sols-vivants
 layout: layouts/post.njk
 ---
 
