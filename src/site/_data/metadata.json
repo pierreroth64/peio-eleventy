@@ -1,22 +1,22 @@
 {
-  "title": "peio.dev",
-  "url": "https://peio.dev/",
+  "title": "peio",
+  "url": "https://peio.netlify.app/",
   "language": "en",
   "description": "Crafting software @eove in front of the Pyrenees. #DDD #XP",
   "feed": {
     "subtitle": "Crafting software @eove in front of the Pyrenees. #DDD #XP",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://peio.dev"
+    "id": "https://peio.netlify.app"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://peio.dev/feed/feed.json"
+    "url": "https://peio.netlify.app/feed/feed.json"
   },
   "author": {
     "name": "Peio",
     "email": "peioroth@gmail.com",
-    "url": "https://peio.dev/"
+    "url": "https://peio.netlify.app/"
   },
   "github": {
     "url": "https://github.com/pierreroth64"

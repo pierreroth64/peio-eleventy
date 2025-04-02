@@ -5,4 +5,4 @@
 
 Based on [eleventy](https://www.11ty.dev/) and [tailwindcss](https://tailwindcss.com)
 
-Deployed at [https://peio.dev](https://peio.dev) on [netlify.com](netlify.com)
+Deployed at [https://peio.netlify.app](https://peio.netlify.app) on [netlify.com](netlify.com)
