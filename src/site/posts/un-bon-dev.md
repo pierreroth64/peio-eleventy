@@ -143,4 +143,4 @@ _"Un bon développeur adhère furieusement aux valeurs de son équipe et écrit 
 
 Allez hop je file !
 En ce début d'année 2026, j'ai du Rust 🦀 `no-std` à digérer 😅... 
-La prochaine session de recrutement pourrait débuter en 2027 ([stady tuned](https://www.linkedin.com/company/eove/))🥳
+La prochaine session de recrutement pourrait débuter en 2027 ([stay tuned](https://www.linkedin.com/company/eove/))🥳
